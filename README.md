@@ -26,9 +26,49 @@ This repository is started on 02/07/2023, and will keep on updating.**
 | VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) |
 
 ## Resutls
-| Methods| GTOT| RGB210|RGBT234|LasHeR|VTUAV|VOT-RGBT2019|VOT-RGBT2020|
-|--|--|--|--|--|--|--|--|
-| |  |  |  |  |  |  |  |  |
+
+<table>
+    <tr> 
+        <th colspan="1"></th> 
+        <th colspan="1"></th> 
+        <th colspan="2">GTOT</th> 
+        <th colspan="2">RGBT210</th> 
+        <th colspan="2">RGBT234</th> 
+        <th colspan="3">LasHeR</th> 
+        <th colspan="3">VTUAV</th> 
+        <th colspan="3">VOT-RGBT2019</th> 
+        <th colspan="3">VOT-RGBT2020</th> 
+    </tr>
+    <tr>
+    	<td> Methods</td>
+    	<td>Venue</td>
+    	<td> PR</td>
+    	<td> SR</td>
+    	<td> PR</td>
+    	<td> SR</td>
+       	<td> PR</td>
+    	<td> SR</td>
+    	<td> PR</td>
+    	<td> NPR</td>
+    	<td> SR</td>
+    	<td> PR</td>
+    	<td> NPR</td>
+    	<td> SR</td>
+       	<td> R</td>
+    	<td> A</td>
+    	<td> EAO</td>
+    	<td> R</td>
+    	<td> A</td>
+    	<td> EAO</td>
+    	
+    </tr>
+    <tr> 
+    	<td> MANet </td>
+    	<td> ICCVW'2019</td>
+    	<td> ICCVW'2019</td>
+    </tr>
+</table>
+
 ## Contributors
 - [Zhangyong Tang](https://github.com/Zhangyong_Tang)
 - [PRCI-Lab](https://github.com/PRCI-Lab)
