@@ -59,13 +59,26 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> EAO</td>
     	<td> R</td>
     	<td> A</td>
-    	<td> EAO</td>
-    	
+    	<td> EAO</td> 	
     </tr>
     <tr> 
     	<td> MANet </td>
     	<td> ICCVW'2019</td>
-    	<td> ICCVW'2019</td>
+    	<td> 0.894</td>
+    	<td> 0.724</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.777</td>
+    	<td> 0.539</td>
+    	<td> 0.457</td>
+    	<td> -</td>
+    	<td> 0.330</td>
+       	<td> 0.582</td>
+    	<td> 0.701</td>
+    	<td> 0.346</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
     </tr>
 </table>
 
