@@ -10,6 +10,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 >  - [x] Datasets
 >  - [x] Results
 >  - [x] Methods
+>  - [x] Competitions
 >  -  ...
 -----
 
@@ -73,6 +74,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.457</td>
     	<td> -</td>
     	<td> 0.330</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
        	<td> 0.582</td>
     	<td> 0.701</td>
     	<td> 0.346</td>
