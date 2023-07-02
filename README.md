@@ -26,7 +26,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 | LasHeR| TIP'2021 | [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR) |
 | VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) |
 
-## Resutls
+## Results
 
 <table>
     <tr> 
@@ -85,6 +85,17 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 </table>
+
+## Methods
+
+## Competitions
+
+ 1. [AntiUAV 1st](https://anti-uav.github.io/)
+	The first AntiUAV challenge is a multi-modal challenge. It was held in 2020.  The website for the 1st AntiUAV is covered by the newest one. The winner is team *xiaobaibai*. One of its member is [Tianyang Xu](https://xu-tianyang.github.io/)
+ 2. [VOT-RGBT2019]
+ 
+ 3. [VOT-RGBT2020]
+ 
 
 ## Contributors
 - [Zhangyong Tang](https://github.com/Zhangyong_Tang)
