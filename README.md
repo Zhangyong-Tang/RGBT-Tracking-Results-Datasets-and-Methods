@@ -641,7 +641,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
        <tr> 
     	<td> DFAT</td>
-    	    	<td> <a herf="https://github.com/Zhangyong-Tang/DFAT-Information-Fusion">published</a></td>
+    	    	<td> <a herf="https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/">published</a></td>
     	<td>INFFUS'2023</td>
     	<td>0.893</td>
     	<td> 0.723</td>
