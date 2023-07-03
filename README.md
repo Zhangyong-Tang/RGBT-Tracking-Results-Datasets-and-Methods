@@ -650,6 +650,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
  3. [VOT-RGBT2020]
     A competition in the RGBT tracking community. It was held in 2020. The winner is *DFAT*. One of its member is [Zhangyong Tang](https://github.com/Zhangyong-Tang/)
 
+-----
 ## Contributors
 - [Zhangyong Tang](https://github.com/Zhangyong_Tang)
 - [PRCI-Lab](https://github.com/PRCI-Lab)
