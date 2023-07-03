@@ -64,6 +64,50 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> EAO</td> 	
     </tr>
     <tr> 
+    	<td> fusionnet</td>
+    	<td> NeuroComputing'2018</td>
+    	<td> 0.852</td>
+    	<td> 0.626</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    <tr> 
+    	<td> mfDiMP</td>
+    	<td> ICCVW'2019</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.786</td>
+    	<td> 0.555</td>
+    	<td> 0.785</td>
+    	<td> 0.559</td>
+    	<td> 0.447</td>
+    	<td> -</td>
+    	<td> 0.344</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.602</td>
+    	<td> 0.804</td>
+    	<td> 0.388</td>
+        <td> 0.638</td>
+    	<td> 0.793</td>
+    	<td> 0.380</td>
+    </tr>
+    <tr> 
     	<td> MANet </td>
     	<td> ICCVW'2019</td>
     	<td> 0.894</td>
@@ -84,6 +128,512 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
+    </tr>
+      <tr> 
+    	<td> DAPNet</td>
+    	<td> ACM MM'2019</td>
+    	<td> 0.882</td>
+    	<td> 0.707</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.766</td>
+    	<td> 0.537</td>
+    	<td> 0.431</td>
+    	<td> -</td>
+    	<td> 0.314</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
+    	<td> DAFNet</td>
+    	<td> ICCVW'2019</td>
+    	<td> 0.891</td>
+    	<td> 0.712</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.796</td>
+    	<td> 0.544</td>
+    	<td> 0.449</td>
+    	<td> -</td>
+    	<td> 0.311</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+        <tr> 
+    	<td> -</td>
+    	<td> ICIP'2019</td>
+    	<td> 0.843</td>
+    	<td> 0.677</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.787</td>
+    	<td> 0.545</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+          <tr> 
+    	<td> -</td>
+    	<td> FUSION'2019</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.610</td>
+    	<td> 0.428</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+           <tr> 
+    	<td> -</td>
+    	<td> FUSION'2019</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.610</td>
+    	<td> 0.428</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+            <tr> 
+    	<td> SiamFT</td>
+    	<td> IEEE Access'2019</td>
+    	<td>0.826</td>
+    	<td> 0.700</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.688</td>
+    	<td> 0.486</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.630</td>
+    	<td> 0.639</td>
+    	<td>0.310</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+	<tr> 
+    	<td> MaCNet</td>
+    	<td> Sensors'2020</td>
+    	<td>0.880</td>
+    	<td> 0.714</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.790</td>
+    	<td> 0.554</td>
+    	<td> 0.483</td>
+    	<td> -</td>
+    	<td> 0.352</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.545</td>
+    	<td> 0.591</td>
+    	<td>0.305</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+ 	<tr> 
+    	<td> DMCNet</td>
+    	<td></td>
+    	<td>0.909</td>
+    	<td> 0.733</td>
+    	<td> 0.797</td>
+    	<td> 0.555</td>
+    	<td> 0.839</td>
+    	<td> 0.593</td>
+    	<td> 0.491</td>
+    	<td> -</td>
+    	<td> 0.357</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+   	<tr> 
+    	<td> CMPP</td>
+    	<td>CVPR'2020</td>
+    	<td>0.926</td>
+    	<td> 0.738</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.823</td>
+    	<td> 0.575</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    	<tr> 
+    	<td> CAT</td>
+    	<td>ECCV'2020</td>
+    	<td>0.889</td>
+    	<td> 0.717</td>
+    	<td> 0.792</td>
+    	<td> 0.533</td>
+    	<td> 0.804</td>
+    	<td> 0.561</td>
+    	<td> 0.451</td>
+    	<td> -</td>
+    	<td> 0.317</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    	<tr> 
+    	<td> DSiamMFT</td>
+    	<td>2020</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> 0.642</td>
+    	<td> 0.432</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    	<tr> 
+    	<td> JMMAC</td>
+    	<td>TIP'2021</td>
+    	<td>0.902</td>
+    	<td> 0.732</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.790</td>
+    	<td> 0.573</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.665</td>
+    	<td> 0.821</td>
+    	<td>0.483</td>
+        <td> 0.662</td>
+    	<td> 0.818</td>
+    	<td> 0.420</td>
+    </tr>
+      	<tr> 
+    	<td> MANet++</td>
+    	<td>TIP'2021</td>
+    	<td>0.901</td>
+    	<td> 0.723</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.800</td>
+    	<td> 0.554</td>
+    	<td> 0.467</td>
+    	<td> -</td>
+    	<td> 0.317</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.509</td>
+    	<td> 0.538</td>
+    	<td>0.272</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+       	<tr> 
+    	<td> CBPNet</td>
+    	<td>TMM'2021</td>
+    	<td>0.885</td>
+    	<td> 0.716</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.794</td>
+    	<td> 0.541</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
+    	<td> TFNet</td>
+    	<td>TCSVT'2021</td>
+    	<td>0.886</td>
+    	<td> 0.729</td>
+    	<td> 0.777</td>
+    	<td> 0.529</td>
+    	<td> 0.806</td>
+    	<td> 0.560</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.462</td>
+    	<td> 0.594</td>
+    	<td>0.288</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+        <tr> 
+    	<td> FANet</td>
+    	<td>TIV'2021</td>
+    	<td>0.891</td>
+    	<td> 0.728</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.787</td>
+    	<td> 0.553</td>
+    	<td> 0.442</td>
+    	<td> -</td>
+    	<td> 0.309</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.472</td>
+    	<td> 0.508</td>
+    	<td>0.247</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+         <tr> 
+    	<td> ADRNet</td>
+    	<td>IJCV'2021</td>
+    	<td>0.904</td>
+    	<td> 0.739</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.809</td>
+    	<td> 0.571</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.622</td>
+    	<td> 0.766</td>
+    	<td>0.396</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+          <tr> 
+    	<td> ADRNet</td>
+    	<td>IJCV'2021</td>
+    	<td>0.904</td>
+    	<td> 0.739</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.809</td>
+    	<td> 0.571</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.622</td>
+    	<td> 0.766</td>
+    	<td>0.396</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+           <tr> 
+    	<td> M^5L</td>
+    	<td>TIP'2021</td>
+    	<td>0.896</td>
+    	<td> 0.710</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.795</td>
+    	<td> 0.542</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+            <tr> 
+    	<td> SiamCDA</td>
+    	<td>TCSVT'2021</td>
+    	<td>0.877</td>
+    	<td> 0.732</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.760</td>
+    	<td> 0.569</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.682</td>
+    	<td> 0.757</td>
+    	<td>0.424</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    <tr> 
+    	<td> DuSiamRT</td>
+    	<td>2021</td>
+    	<td>0.766</td>
+    	<td> 0.628</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.567</td>
+    	<td> 0.384</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    <tr> 
+    	<td> APFNet</td>
+    	<td>AAAI'2022</td>
+    	<td>0.905</td>
+    	<td> 0.739</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.827</td>
+    	<td> 0.579</td>
+    	<td> 0.500</td>
+    	<td> -</td>
+    	<td> 0.362</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
+    	<td> DFAT</td>
+    	<td>INFFUS'2023</td>
+    	<td>0.893</td>
+    	<td> 0.723</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.758</td>
+    	<td> 0.552</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.336</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> 0.670</td>
+       	<td> 0.756</td>
+    	<td> 0.413</td>
+    	<td>0.672</td>
+        <td> 0.779</td>
+    	<td> 0.390</td>
     </tr>
 </table>
 
