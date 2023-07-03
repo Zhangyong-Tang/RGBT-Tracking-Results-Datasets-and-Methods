@@ -645,10 +645,10 @@ This repository is started on 02/07/2023, and will keep on updating.**
 
  1. [AntiUAV 1st](https://anti-uav.github.io/)
 	The first AntiUAV challenge is a multi-modal challenge. It was held in 2020.  The website for the 1st AntiUAV is covered by the newest one. The winner is team *xiaobaibai*. One of its member is [Tianyang Xu](https://xu-tianyang.github.io/)
- 2. [VOT-RGBT2019]
- 
+ 2. [VOT-RGBT2019](https://votchallenge.net/vot2019/)
+ 	The first competition in the RGBT tracking community. It was held in 2019. The winner is *SiamDW*.
  3. [VOT-RGBT2020]
- 
+    A competition in the RGBT tracking community. It was held in 2020. The winner is *DFAT*. One of its member is [Zhangyong Tang](https://github.com/Zhangyong-Tang/)
 
 ## Contributors
 - [Zhangyong Tang](https://github.com/Zhangyong_Tang)
