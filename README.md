@@ -618,7 +618,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
     <tr> 
     	<td> APFNet</td>
-    	    	<td> -</td>
+    	    	<td> <a href='https://github.com/yangmengmeng1997/APFNet'> published </a> </td>
     	<td>AAAI'2022</td>
     	<td>0.905</td>
     	<td> 0.739</td>
