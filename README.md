@@ -616,6 +616,29 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+    <tr> 
+    	<td> TAAT</td>
+    	    	<td> <a href='https://arxiv.org/abs/2201.08949'> arxiv </a> </td>
+    	<td>arxiv'2022</td>
+    	<td>0.858</td>
+    	<td> 0.696</td>
+    	<td> 0.710</td>
+    	<td> 0.486</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> 0.696</td>
+    	<td> -</td>
+    	<td> 0.560</td>
+       	<td> 0.643</td>
+    	<td> 0.735</td>
+    	<td>0.416</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
        <tr> 
     	<td> DFAT</td>
     	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
