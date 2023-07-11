@@ -666,6 +666,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+ 	<tr> 
+    	<td> HMFT</td>
+    	    	<td> -</td>
+    	<td>CVPR'2022</td>
+	<td> 30/GTXTitan</td>
+    	<td>0.912</td>
+    	<td> 0.749</td>
+    	<td> 0.786</td>
+    	<td> 0.535</td>
+    	<td> 0.788</td>
+    	<td> 0.568</td>
+    	<td> 0.460</td>
+    	<td> 0.413</td>
+    	<td> 0.326</td>
+        <td> 0.758</td>
+    	<td> -</td>
+    	<td> 0.627</td>
+       	<td> 0.553</td>
+    	<td> 0.760</td>
+    	<td>0.347</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
        <tr> 
     	<td> DFAT</td>
     	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
