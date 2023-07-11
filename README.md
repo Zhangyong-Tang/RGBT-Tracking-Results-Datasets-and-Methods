@@ -33,6 +33,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     <tr> 
         <th colspan="1"></th> 
         <th colspan="1"></th> 
+	<th colspan="1"></th> 
         <th colspan="2">GTOT</th> 
         <th colspan="2">RGBT210</th> 
         <th colspan="2">RGBT234</th> 
@@ -45,6 +46,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> Methods</td>
     	 <td>Code</td>
     	<td>Venue</td>
+	<td>Speed</td>
     	<td> PR</td>
     	<td> SR</td>
     	<td> PR</td>
@@ -68,6 +70,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> fusionnet</td>
     	    	<td> -</td>
     	<td> NeuroComputing'2018</td>
+	<td> -</td>
     	<td> 0.852</td>
     	<td> 0.626</td>
     	<td> -</td>
@@ -91,6 +94,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> mfDiMP</td>
     	    	<td> <a href='https://github.com/zhanglichao/end2end_rgbt_tracking'>pubished</a></td>
     	<td> ICCVW'2019</td>
+	<td> 28/GTXTitan</td>
     	<td> -</td>
     	<td> -</td>
     	<td> 0.786</td>
@@ -114,6 +118,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MANet </td>
     	    	<td> <a href='https://github.com/Alexadlu/MANet'>pubished</a> </td>
     	<td> ICCVW'2019</td>
+	<td> -</td>
     	<td> 0.894</td>
     	<td> 0.724</td>
     	<td> -</td>
@@ -137,6 +142,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DAPNet</td>
     	    	<td> -</td>
     	<td> ACM MM'2019</td>
+	<td> -</td>
     	<td> 0.882</td>
     	<td> 0.707</td>
     	<td> -</td>
@@ -160,6 +166,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DAFNet</td>
     	    	<td> <a href='https://github.com/mjt1312/DAFNet'>pubished</a></td>
     	<td> ICCVW'2019</td>
+	<td> -</td>
     	<td> 0.891</td>
     	<td> 0.712</td>
     	<td> -</td>
@@ -183,6 +190,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	    	<td> -</td>
     	<td> ICIP'2019</td>
+	<td> -</td>
     	<td> 0.843</td>
     	<td> 0.677</td>
     	<td> -</td>
@@ -206,6 +214,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	    	<td> -</td>
     	<td> FUSION'2019</td>
+	<td> -</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -229,6 +238,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SiamFT</td>
     	    	<td> -</td>
     	<td> IEEE Access'2019</td>
+	<td> -</td>
     	<td>0.826</td>
     	<td> 0.700</td>
     	<td> -</td>
@@ -252,6 +262,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MaCNet</td>
     	    	<td> <a href='https://github.com/Lee-zl/MaCNet'>pubished</a></td>
     	<td> Sensors'2020</td>
+	<td> -</td>
     	<td>0.880</td>
     	<td> 0.714</td>
     	<td> -</td>
@@ -271,33 +282,11 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
- 	<tr> 
-    	<td> DMCNet</td>
-    	    	<td> -</td>
-    	<td></td>
-    	<td>0.909</td>
-    	<td> 0.733</td>
-    	<td> 0.797</td>
-    	<td> 0.555</td>
-    	<td> 0.839</td>
-    	<td> 0.593</td>
-    	<td> 0.491</td>
-    	<td> -</td>
-    	<td> 0.357</td>
-        <td> -</td>
-    	<td> -</td>
-    	<td> -</td>
-       	<td> -</td>
-    	<td> -</td>
-    	<td>-</td>
-        <td> -</td>
-    	<td> -</td>
-    	<td> -</td>
-    </tr>
    	<tr> 
     	<td> CMPP</td>
     	    	<td> -</td>
     	<td>CVPR'2020</td>
+	<td> -</td>
     	<td>0.926</td>
     	<td> 0.738</td>
     	<td> -</td>
@@ -321,6 +310,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> CAT</td>
     	    	<td> -</td>
     	<td>ECCV'2020</td>
+	<td> -</td>
     	<td>0.889</td>
     	<td> 0.717</td>
     	<td> 0.792</td>
@@ -344,6 +334,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DSiamMFT</td>
     	    	<td> -</td>
     	<td>2020</td>
+	<td> -</td>
     	<td>-</td>
     	<td> -</td>
     	<td> 0.642</td>
@@ -367,6 +358,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> JMMAC</td>
     	    	<td> <a href='https://github.com/zhang-pengyu/JMMAC'>pubished</a></td>
     	<td>TIP'2021</td>
+	<td> 4/RTX2080Ti</td>
     	<td>0.902</td>
     	<td> 0.732</td>
     	<td> -</td>
@@ -390,6 +382,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MANet++</td>
     	    	<td> -</td>
     	<td>TIP'2021</td>
+	<td> -</td>
     	<td>0.901</td>
     	<td> 0.723</td>
     	<td> -</td>
@@ -413,6 +406,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> CBPNet</td>
     	    	<td> -</td>
     	<td>TMM'2021</td>
+	<td> -</td>
     	<td>0.885</td>
     	<td> 0.716</td>
     	<td> -</td>
@@ -436,6 +430,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> TFNet</td>
     	    	<td> -</td>
     	<td>TCSVT'2021</td>
+	<td> 20/RTX2080Ti</td>
     	<td>0.886</td>
     	<td> 0.729</td>
     	<td> 0.777</td>
@@ -459,6 +454,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> FANet</td>
     	    	<td> -</td>
     	<td>TIV'2021</td>
+	<td> 19/RTX2080Ti</td>
     	<td>0.891</td>
     	<td> 0.728</td>
     	<td> -</td>
@@ -482,6 +478,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> ADRNet</td>
     	    	<td> <a href='https://github.com/zhang-pengyu/ADRNet'>pubished</a></td>
     	<td>IJCV'2021</td>
+	<td> 25/RTX2080Ti</td>
     	<td>0.904</td>
     	<td> 0.739</td>
     	<td> -</td>
@@ -505,6 +502,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> M^5L</td>
     	    	<td> -</td>
     	<td>TIP'2021</td>
+	<td> -</td>
     	<td>0.896</td>
     	<td> 0.710</td>
     	<td> -</td>
@@ -528,6 +526,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SiamCDA</td>
     	    	<td> <a href='https://github.com/Tianlu-Zhang/LSS-Dataset'> published </a> </td>
     	<td>TCSVT'2021</td>
+	<td> -</td>
     	<td>0.877</td>
     	<td> 0.732</td>
     	<td> -</td>
@@ -551,6 +550,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DuSiamRT</td>
     	    	<td> -</td>
     	<td>2021</td>
+	<td> -</td>
     	<td>0.766</td>
     	<td> 0.628</td>
     	<td> -</td>
@@ -574,6 +574,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> <a href='https://www.sciencedirect.com/science/article/pii/S0925231221011966'>Here</a></td>
     	    	<td> -</td>
     	<td>NeuralComputing'2021</td>
+	<td> 35</td>
     	<td>0.869</td>
     	<td> 0.711</td>
     	<td> -</td>
@@ -597,6 +598,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> APFNet</td>
     	    	<td> <a href='https://github.com/yangmengmeng1997/APFNet'> published </a> </td>
     	<td>AAAI'2022</td>
+	<td> -</td>
     	<td>0.905</td>
     	<td> 0.739</td>
     	<td> -</td>
@@ -620,6 +622,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> TAAT</td>
     	    	<td> <a href='https://arxiv.org/abs/2201.08949'> arxiv </a> </td>
     	<td>arxiv'2022</td>
+	<td> 39/RTX2080Ti</td>
     	<td>0.858</td>
     	<td> 0.696</td>
     	<td> 0.710</td>
@@ -639,10 +642,35 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+ 	<tr> 
+    	<td> DMCNet</td>
+    	    	<td> -</td>
+    	<td>TNNLS'2022</td>
+	<td> 2.38/RTX2080Ti</td>
+    	<td>0.909</td>
+    	<td> 0.733</td>
+    	<td> 0.797</td>
+    	<td> 0.555</td>
+    	<td> 0.839</td>
+    	<td> 0.593</td>
+    	<td> 0.491</td>
+    	<td> -</td>
+    	<td> 0.357</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
        <tr> 
     	<td> DFAT</td>
     	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
     	<td>INFFUS'2023</td>
+	<td> 22/RTX2080Ti</td>
     	<td>0.893</td>
     	<td> 0.723</td>
     	<td> -</td>
