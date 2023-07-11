@@ -668,7 +668,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
  	<tr> 
     	<td> HMFT</td>
-    	    	<td> -</td>
+    	    	<td> <a href='https://github.com/zhang-pengyu/HMFT'> published</a></td>
     	<td>CVPR'2022</td>
 	<td> 30/GTXTitan</td>
     	<td>0.912</td>
