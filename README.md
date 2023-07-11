@@ -810,6 +810,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> 0.779</td>
     	<td> 0.390</td>
     </tr>
+       <tr> 
+    	<td> ViPT</td>
+    	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
+    	<td>CVPR'2023</td>
+	<td> 22/RTX2080Ti</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.825</td>
+    	<td> 0.617</td>
+    	<td> 0.651</td>
+    	<td> -</td>
+    	<td> 0.525</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
