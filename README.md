@@ -250,10 +250,10 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
         <td> 0.653</td>
     	<td> -</td>
+    	<td> 0.544</td>
+       	<td> -</td>
     	<td> -</td>
-       	<td> 0.544</td>
-    	<td> -</td>
-    	<td>-</td>
+    	<td>0.355</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -437,6 +437,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 0.794</td>
     	<td> 0.541</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+       	<tr> 
+    	<td> CEDiMP</td>
+    	    	<td> -</td>
+    	<td>Sensors'2021</td>
+	<td> -</td>
+    	<td>0.886</td>
+    	<td> 0.731</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.808</td>
+    	<td> 0.561</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
