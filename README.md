@@ -787,6 +787,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
+    	<td> ProTrack</td>
+    	<td> -</td>
+    	<td>ACMMM'2022</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.786</td>
+    	<td> 0.587</td>
+    	<td> 0.509</td>
+    	<td> -</td>
+    	<td> 0.421</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
     	<td> DFAT</td>
     	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
     	<td>INFFUS'2023</td>
@@ -812,18 +836,18 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
        <tr> 
     	<td> ViPT</td>
-    	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
+    	<td> <a href='https://github.com/jiawen-zhu/ViPT'>published</a></td>
     	<td>CVPR'2023</td>
-	<td> 22/RTX2080Ti</td>
+	<td> -</td>
     	<td>-</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> -</td>
-    	<td> 0.825</td>
+    	<td> -0.835</td>
     	<td> 0.617</td>
     	<td> 0.651</td>
     	<td> -</td>
     	<td> 0.525</td>
+    	<td> -</td>
         <td> -</td>
     	<td> -</td>
     	 <td> -</td>
