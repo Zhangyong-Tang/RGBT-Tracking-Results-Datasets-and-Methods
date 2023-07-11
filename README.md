@@ -104,9 +104,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.447</td>
     	<td> -</td>
     	<td> 0.344</td>
-        <td> -</td>
+        <td> 0.673</td>
     	<td> -</td>
-    	<td> -</td>
+    	<td> 0.554</td>
        	<td> 0.602</td>
     	<td> 0.804</td>
     	<td> 0.388</td>
@@ -176,9 +176,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.449</td>
     	<td> -</td>
     	<td> 0.311</td>
-        <td> -</td>
+        <td> 0.620</td>
     	<td> -</td>
-    	<td> -</td>
+    	<td> 0.458</td>
        	<td> -</td>
     	<td> -</td>
     	<td>-</td>
@@ -228,6 +228,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
        	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
+    <tr> 
+    	<td> FSRPN</td>
+    	    	<td> <a href='https://github.com/hli1221/rgbt-tracking-fsrpn'>published</a></td>
+    	<td> 2019</td>
+	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> 0.653</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.544</td>
     	<td> -</td>
     	<td>-</td>
         <td> -</td>
@@ -488,9 +512,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
-        <td> -</td>
+        <td> 0.622</td>
     	<td> -</td>
-    	<td> -</td>
+    	<td> 0.466</td>
        	<td> 0.622</td>
     	<td> 0.766</td>
     	<td>0.396</td>
@@ -688,6 +712,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>0.347</td>
         <td> -</td>
     	<td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
+    	<td> <a href='https://link.springer.com/article/10.1007/s11432-020-3160-5'>Here</a></td>
+    	<td> -</td>
+    	<td>SC IF'2022</td>
+	<td> 10/i5-7500k</td>
+    	<td>0.864</td>
+    	<td> 0.707</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.666</td>
+    	<td> 0.484</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
     	<td> -</td>
     </tr>
        <tr> 
