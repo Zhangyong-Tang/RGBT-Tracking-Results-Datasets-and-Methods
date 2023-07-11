@@ -643,6 +643,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+   <tr> 
+    	<td> EStaple</td>
+    	    	<td> -</td>
+    	<td>JCSC'2021</td>
+	<td> 44/AMD3950</td>
+    	<td>-</td>
+    	<td> </td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.648</td>
+    	<td> 0.470</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
     <tr> 
     	<td> APFNet</td>
     	    	<td> <a href='https://github.com/yangmengmeng1997/APFNet'> published </a> </td>
@@ -842,11 +866,35 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>-</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> -0.835</td>
+    	<td> 0.835</td>
     	<td> 0.617</td>
     	<td> 0.651</td>
     	<td> -</td>
     	<td> 0.525</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
+    	<td> HFRD</td>
+    	<td> -</td>
+    	<td>CVPR'2023</td>
+	<td> 30/RTX1080Ti</td>
+    	<td>0.892</td>
+    	<td> 0.734</td>
+    	<td> -</td>
+    	<td> 0.824</td>
+    	<td> 0.584</td>
+    	<td> 0.590</td>
+    	<td> 0.546</td>
+    	<td> 0.464</td>
     	<td> -</td>
         <td> -</td>
     	<td> -</td>
