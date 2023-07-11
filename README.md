@@ -570,6 +570,29 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+   <tr> 
+    	<td> [Here](https://www.sciencedirect.com/science/article/pii/S0925231221011966)</td>
+    	    	<td> -</td>
+    	<td>NeuralComputing'2021</td>
+    	<td>0.869</td>
+    	<td> 0.711</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.751</td>
+    	<td> 0.491</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> 0.682</td>
+    	<td> 0.757</td>
+    	<td>0.424</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
     <tr> 
     	<td> APFNet</td>
     	    	<td> <a href='https://github.com/yangmengmeng1997/APFNet'> published </a> </td>
