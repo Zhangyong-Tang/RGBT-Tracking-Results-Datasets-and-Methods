@@ -101,9 +101,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.555</td>
     	<td> 0.785</td>
     	<td> 0.559</td>
-    	<td> 0.447</td>
-    	<td> -</td>
-    	<td> 0.344</td>
+    	<td> 0.448</td>
+    	<td> 0.395</td>
+    	<td> 0.343</td>
         <td> 0.673</td>
     	<td> -</td>
     	<td> 0.554</td>
@@ -128,9 +128,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.457</td>
     	<td> -</td>
     	<td> 0.330</td>
-        <td> -</td>
-    	<td> -</td>
-    	<td> -</td>
+        <td> 0.455</td>
+    	<td> 0.383</td>
+    	<td> 0.326</td>
        	<td> 0.582</td>
     	<td> 0.701</td>
     	<td> 0.346</td>
@@ -152,9 +152,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.431</td>
     	<td> -</td>
     	<td> 0.314</td>
-        <td> -</td>
-    	<td> -</td>
-    	<td> -</td>
+        <td> 0.431</td>
+    	<td> 0.383</td>
+    	<td> 0.314</td>
        	<td> -</td>
     	<td> -</td>
     	<td>-</td>
@@ -173,8 +173,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 0.796</td>
     	<td> 0.544</td>
-    	<td> 0.449</td>
-    	<td> -</td>
+    	<td> 0.448</td>
+    	<td> 0.390</td>
     	<td> 0.311</td>
         <td> 0.620</td>
     	<td> -</td>
@@ -262,7 +262,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SiamFT</td>
     	    	<td> -</td>
     	<td> IEEE Access'2019</td>
-	<td> -</td>
+	<td> 17/RTX1080Ti</td>
     	<td>0.826</td>
     	<td> 0.700</td>
     	<td> -</td>
@@ -293,9 +293,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 0.790</td>
     	<td> 0.554</td>
-    	<td> 0.483</td>
-    	<td> -</td>
-    	<td> 0.352</td>
+    	<td> 0.482</td>
+    	<td> 0.420</td>
+    	<td> 0.350</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -310,7 +310,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> CMPP</td>
     	    	<td> -</td>
     	<td>CVPR'2020</td>
-	<td> -</td>
+	<td> 1.3/RTX2080Ti</td>
     	<td>0.926</td>
     	<td> 0.738</td>
     	<td> -</td>
@@ -341,9 +341,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.533</td>
     	<td> 0.804</td>
     	<td> 0.561</td>
-    	<td> 0.451</td>
-    	<td> -</td>
-    	<td> 0.317</td>
+    	<td> 0.450</td>
+    	<td> 0.395</td>
+    	<td> 0.314</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -358,7 +358,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DSiamMFT</td>
     	    	<td> -</td>
     	<td>2020</td>
-	<td> -</td>
+	<td> 14.7/RTX1080Ti</td>
     	<td>-</td>
     	<td> -</td>
     	<td> 0.642</td>
@@ -414,8 +414,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.800</td>
     	<td> 0.554</td>
     	<td> 0.467</td>
-    	<td> -</td>
-    	<td> 0.317</td>
+    	<td> 0.404</td>
+    	<td> 0.314</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -509,8 +509,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 0.787</td>
     	<td> 0.553</td>
-    	<td> 0.442</td>
-    	<td> -</td>
+    	<td> 0.441</td>
+    	<td> 0.384</td>
     	<td> 0.309</td>
         <td> -</td>
     	<td> -</td>
@@ -690,6 +690,29 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+    	<td> DCNet</td>
+    	    	<td> - </td>
+    	<td>ICPR'2022</td>
+	<td> -</td>
+    	<td>0.903</td>
+    	<td> 0.736</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 0.839</td>
+    	<td> 0.591</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
  	<tr> 
     	<td> DMCNet</td>
     	    	<td> -</td>
@@ -701,9 +724,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.555</td>
     	<td> 0.839</td>
     	<td> 0.593</td>
-    	<td> 0.491</td>
-    	<td> -</td>
-    	<td> 0.357</td>
+    	<td> 0.490</td>
+    	<td> 0.431</td>
+    	<td> 0.355</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
