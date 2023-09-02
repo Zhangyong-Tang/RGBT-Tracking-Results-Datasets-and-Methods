@@ -940,9 +940,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> BD2Track</td>
     	<td> -</td>
     	<td>SPL'2023</td>
-	<td> -</td>
-    	<td>-</td>
-    	<td> -</td>
+	<td> 127/RTX3090</td>
+    	<td>88.5</td>
+    	<td> 71.4</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -950,6 +950,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.560</td>
     	<td> -</td>
     	<td> 0.432</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+       <tr> 
+    	<td> SiamTDR</td>
+    	<td> -</td>
+    	<td>TICPS'2023</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
         <td> -</td>
     	<td> -</td>
     	 <td> -</td>
