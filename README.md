@@ -984,6 +984,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+       <tr> 
+    	<td> SiamAFTS</td>
+    	<td> -</td>
+    	<td>ScienticReport'2023</td>
+	<td> -</td>
+    	<td>84.9</td>
+    	<td> 77.7</td>
+    	<td> 87.3</td>
+    	<td> 56.4</td>
+    	<td> 89.0</td>
+    	<td> 60.2</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
