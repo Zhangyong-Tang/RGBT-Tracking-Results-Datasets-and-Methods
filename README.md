@@ -1008,6 +1008,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> GMMT</td>
+    	<td> -</td>
+    	<td>Arxiv'2023</td>
+	<td> 18/RTX3090Ti</td>
+    	<td>85.7</td>
+    	<td> 69.3</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 85.0</td>
+    	<td> 61.7</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	 <td> -</td>
+    	<td> 70.7</td>
+       	<td> 67.0</td>
+    	<td> 56.6</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
