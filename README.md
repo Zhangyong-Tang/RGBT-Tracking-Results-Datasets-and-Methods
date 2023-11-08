@@ -1,6 +1,6 @@
 ## RGBT-Tracking-Results-Datasets-and-Methods
 
-**This is a personal investigation for RGBT tracking. 
+**An investigation for RGBT tracking. 
 Hopefully, it can help other researchers become familiar with multi-modal tracking as soon as possible.
 This repository is started on 02/07/2023, and will keep on updating.**
 
