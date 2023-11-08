@@ -1019,15 +1019,15 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 85.0</td>
     	<td> 61.7</td>
+	<td> 70.7</td>
+       	<td> 67.0</td>
+    	<td> 56.6</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
         <td> -</td>
     	<td> -</td>
-    	 <td> -</td>
-    	<td> 70.7</td>
-       	<td> 67.0</td>
-    	<td> 56.6</td>
+    	<td> -</td>
     	<td>-</td>
         <td> -</td>
     	<td> -</td>
