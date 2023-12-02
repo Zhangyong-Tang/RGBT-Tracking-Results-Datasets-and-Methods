@@ -1013,18 +1013,42 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td>Arxiv'2023</td>
 	<td> 18/RTX3090Ti</td>
-    	<td>85.7</td>
-    	<td> 69.3</td>
+    	<td>93.6</td>
+    	<td> 78.5</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 85.0</td>
-    	<td> 61.7</td>
+    	<td> 87.9</td>
+    	<td> 64.7</td>
 	<td> 70.7</td>
        	<td> 67.0</td>
     	<td> 56.6</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+	 <tr> 
+    	<td> [paper](https://link.springer.com/article/10.1007/s10489-023-04741-y)</td>
+    	<td> -</td>
+    	<td>Applied Intelligence'2023</td>
+	<td> 15/GTX1080Ti</td>
+    	<td>91.6</td>
+    	<td> 74.4</td>
+    	<td> 80.2</td>
+    	<td> 56.8</td>
+    	<td> 83.6</td>
+    	<td> 60.4</td>
+	<td> 63.6</td>
+       	<td> 59.4</td>
+    	<td> 50.0</td>
+    	<td> 69.2</td>
+    	<td> -</td>
+    	<td> 57.2</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
