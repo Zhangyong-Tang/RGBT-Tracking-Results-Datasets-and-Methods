@@ -1033,7 +1033,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> [paper](https://link.springer.com/article/10.1007/s10489-023-04741-y)</td>
+    	<td><a href='https://link.springer.com/article/10.1007/s10489-023-04741-y'>paper</a> </td>
     	<td> -</td>
     	<td>Applied Intelligence'2023</td>
 	<td> 15/GTX1080Ti</td>
