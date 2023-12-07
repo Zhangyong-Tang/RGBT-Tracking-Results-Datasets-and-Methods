@@ -1056,6 +1056,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td>UMT</td>
+    	<td> -</td>
+    	<td>AIEA'2023</td>
+	<td> 3/GTX1080Ti</td>
+    	<td>89.2</td>
+    	<td> 73.0</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 84.2</td>
+    	<td> 60.3</td>
+	<td> 49.3</td>
+       	<td> 43.0</td>
+    	<td> 36.9</td>
+    	<td> </td>
+    	<td> -</td>
+    	<td> </td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
