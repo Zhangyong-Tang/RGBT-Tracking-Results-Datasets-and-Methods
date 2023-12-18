@@ -1012,7 +1012,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	 <tr> 
     	<td> GMMT</td>
     	<td> -</td>
-    	<td>Arxiv'2023</td>
+    	<td>AAAI'2024</td>
 	<td> 18/RTX3090Ti</td>
     	<td>93.6</td>
     	<td> 78.5</td>
