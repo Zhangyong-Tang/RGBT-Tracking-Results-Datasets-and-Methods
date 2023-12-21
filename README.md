@@ -270,7 +270,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SiamFT</td>
     	    	<td> -</td>
     	<td> IEEE Access'2019</td>
-	<td> 17/RTX1080Ti</td>
+	<td> 30/RTX1080Ti</td>
     	<td>0.826</td>
     	<td> 0.700</td>
     	<td> -</td>
