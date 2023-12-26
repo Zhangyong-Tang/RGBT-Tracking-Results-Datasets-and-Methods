@@ -1105,6 +1105,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td>BAT</td>
+    	<td> -</td>
+    	<td>AAAI'2024</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 86.8</td>
+    	<td> 64.1</td>
+	<td> 70.2</td>
+       	<td> </td>
+    	<td> 56.3</td>
+    	<td> </td>
+    	<td> -</td>
+    	<td> </td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
