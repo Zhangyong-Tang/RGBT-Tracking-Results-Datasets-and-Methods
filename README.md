@@ -722,7 +722,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
-    	<td> [DCNet](https://pubmed.ncbi.nlm.nih.gov/35604973/)</td>
+    	<td> <a href='https://pubmed.ncbi.nlm.nih.gov/35604973/'> DCNet </a></td>
     	    	<td> - </td>
     	<td>ICPR'2022</td>
 	<td> -</td>
@@ -746,7 +746,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
  	<tr> 
-    	<td> DMCNet</td>
+    	<td> <a href='https://openaccess.thecvf.com/content_CVPR_2019/papers/Shou_DMC-Net_Generating_Discriminative_Motion_Cues_for_Fast_Compressed_Video_Action_CVPR_2019_paper.pdf'> DMCNet </a></td>
     	    	<td> -</td>
     	<td>TNNLS'2022</td>
 	<td> 2.38/RTX2080Ti</td>
@@ -818,7 +818,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td> ProTrack</td>
+    	<td> <a href='https://dl.acm.org/doi/10.1145/3503161.3547851'> ProTrack </a></td>
     	<td> -</td>
     	<td>ACMMM'2022</td>
 	<td> -</td>
@@ -890,7 +890,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td> HFRD</td>
+    	<td> <a href='[https://github.com/jiawen-zhu/ViPT](https://eprints.whiterose.ac.uk/198539/1/4808_efficient_rgb_t_tracking_via_c-Camera-ready%20PDF.pdf)'>HFRD</a></td>
     	<td> -</td>
     	<td>CVPR'2023</td>
 	<td> 30/RTX1080Ti</td>
@@ -938,7 +938,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td> BD2Track</td>
+    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184056'>BD2Track</a></td>
     	<td> -</td>
     	<td>SPL'2023</td>
 	<td> -</td>
@@ -962,7 +962,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td> SiamTDR</td>
+    	<td> <a href='https://ieeexplore.ieee.org/document/10226308'>SiamTDR</a></td>
     	<td> -</td>
     	<td>TICPS'2023</td>
 	<td> 127/RTX3090</td>
@@ -986,7 +986,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td> SiamAFTS</td>
+    	<td>  <a href='https://pubmed.ncbi.nlm.nih.gov/37587133/'>SiamAFTS</a> </td>
     	<td> -</td>
     	<td>ScienticReport'2023</td>
 	<td> -</td>
@@ -1010,7 +1010,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> GMMT</td>
+    	<td> <a href='https://github.com/Zhangyong-Tang/GMMT'>GMMT</a></td>
     	<td> -</td>
     	<td>AAAI'2024</td>
 	<td> 18/RTX3090Ti</td>
@@ -1106,7 +1106,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td>BAT</td>
+    	<td><a href='https://github.com/SparkTempest/BAT'>BAT</a></td>
     	<td> -</td>
     	<td>AAAI'2024</td>
 	<td> -</td>
