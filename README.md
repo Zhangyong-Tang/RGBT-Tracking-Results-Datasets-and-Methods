@@ -267,7 +267,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
             <tr> 
-    	<td> SiamFT</td>
+    	<td>  <a href='https://ieeexplore.ieee.org/document/8809774'>SiamFT</a></td>
     	    	<td> -</td>
     	<td> IEEE Access'2019</td>
 	<td> 30/RTX1080Ti</td>
@@ -315,7 +315,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
    	<tr> 
-    	<td> CMPP</td>
+    	<td>  <a href='https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.pdf'>CMPP</a></td>
     	    	<td> -</td>
     	<td>CVPR'2020</td>
 	<td> 1.3/RTX2080Ti</td>
@@ -339,7 +339,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
     	<tr> 
-    	<td> CAT</td>
+    	<td> <a href='https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf'>CAT</a></td>
     	    	<td> -</td>
     	<td>ECCV'2020</td>
 	<td> -</td>
@@ -363,7 +363,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
     	<tr> 
-    	<td> DSiamMFT</td>
+    	<td> <a href='https://www.sciencedirect.com/science/article/pii/S092359651930342X'>DSiamMFT</a></td>
     	    	<td> -</td>
     	<td>2020</td>
 	<td> 14.7/RTX1080Ti</td>
@@ -411,7 +411,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.420</td>
     </tr>
       	<tr> 
-    	<td> MANet++</td>
+    	<td> <a href='https://github.com/Alexadlu/MANet_pp'>MANet++</a></td>
     	    	<td> -</td>
     	<td>TIP'2021</td>
 	<td> -</td>
@@ -435,7 +435,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        	<tr> 
-    	<td> CBPNet</td>
+    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/9340007'>CBPNet</a></td>
     	    	<td> -</td>
     	<td>TMM'2021</td>
 	<td> -</td>
@@ -459,7 +459,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        	<tr> 
-    	<td> CEDiMP</td>
+    	<td>  <a href='https://pubmed.ncbi.nlm.nih.gov/34502691/'>CEDiMP</a></td>
     	    	<td> -</td>
     	<td>Sensors'2021</td>
 	<td> -</td>
@@ -483,7 +483,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td> TFNet</td>
+    	<td> <a href='https://ieeexplore.ieee.org/document/9383014'>TFNet</a></td>
     	    	<td> -</td>
     	<td>TCSVT'2021</td>
 	<td> 20/RTX2080Ti</td>
@@ -507,7 +507,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
         <tr> 
-    	<td> FANet</td>
+    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=90354574'>FANet</a></td>
     	    	<td> -</td>
     	<td>TIV'2021</td>
 	<td> 19/RTX2080Ti</td>
@@ -555,7 +555,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	<tr> 
-    	<td> M^5L</td>
+    	<td> <a href='https://ieeexplore.ieee.org/document/9617143'>M^5L</a></td>
     	    	<td> -</td>
     	<td>TIP'2021</td>
 	<td> -</td>
@@ -603,7 +603,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
     <tr> 
-    	<td> DuSiamRT</td>
+    	<td> <a href='https://link.springer.com/article/10.1007/s00371-021-02131-4'>DuSiamRT</a></td>
     	    	<td> -</td>
     	<td>2021</td>
 	<td> -</td>
@@ -722,7 +722,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
-    	<td> DCNet</td>
+    	<td> [DCNet](https://pubmed.ncbi.nlm.nih.gov/35604973/)</td>
     	    	<td> - </td>
     	<td>ICPR'2022</td>
 	<td> -</td>
