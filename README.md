@@ -1010,30 +1010,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://github.com/Zhangyong-Tang/GMMT'>GMMT</a></td>
-    	<td> -</td>
-    	<td>AAAI'2024</td>
-	<td> 18/RTX3090Ti</td>
-    	<td>93.6</td>
-    	<td> 78.5</td>
-    	<td> -</td>
-    	<td> -</td>
-    	<td> 87.9</td>
-    	<td> 64.7</td>
-	<td> 70.7</td>
-       	<td> 67.0</td>
-    	<td> 56.6</td>
-    	<td> -</td>
-    	<td> -</td>
-    	<td> -</td>
-        <td> -</td>
-    	<td> -</td>
-    	<td> -</td>
-    	<td>-</td>
-        <td> -</td>
-    	<td> -</td>
-    </tr>
-	 <tr> 
     	<td><a href='https://link.springer.com/article/10.1007/s10489-023-04741-y'>paper</a> </td>
     	<td> -</td>
     	<td>Applied Intelligence'2023</td>
@@ -1105,6 +1081,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+<tr> 
+    	<td> <a href='https://arxiv.org/abs/2308.13764'>USTrack</a></td>
+    	<td> -</td>
+    	<td>Arxiv'2023</td>
+	<td> 84.2/RTX3090</td>
+    	<td>93.4</td>
+    	<td> 78.3</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 87.4</td>
+    	<td> 65.8</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td> 86.9</td>
+    	<td> -</td>
+    	<td> 74.4</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 	 <tr> 
     	<td><a href='https://github.com/SparkTempest/BAT'>BAT</a></td>
     	<td> -</td>
@@ -1122,6 +1122,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> </td>
     	<td> -</td>
     	<td> </td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+	 <tr> 
+    	<td> <a href='https://github.com/Zhangyong-Tang/GMMT'>GMMT</a></td>
+    	<td> -</td>
+    	<td>AAAI'2024</td>
+	<td> 18/RTX3090Ti</td>
+    	<td>93.6</td>
+    	<td> 78.5</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 87.9</td>
+    	<td> 64.7</td>
+	<td> 70.7</td>
+       	<td> 67.0</td>
+    	<td> 56.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
