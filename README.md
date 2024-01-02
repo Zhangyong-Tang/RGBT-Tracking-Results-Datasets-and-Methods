@@ -1082,7 +1082,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 <tr> 
-    	<td> <a href='https://arxiv.org/abs/2308.13764'>USTrack</a></td>
+<!--     	<td> <a href='https://arxiv.org/abs/2308.13764'>USTrack</a></td>
     	<td> -</td>
     	<td>Arxiv'2023</td>
 	<td> 84.2/RTX3090</td>
@@ -1104,7 +1104,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>-</td>
         <td> -</td>
     	<td> -</td>
-    </tr>
+    </tr> -->
 	 <tr> 
     	<td><a href='https://github.com/SparkTempest/BAT'>BAT</a></td>
     	<td> -</td>
