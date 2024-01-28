@@ -1155,6 +1155,31 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+    </tr>
+	 <tr> 
+    	<td><a href='https://github.com/SparkTempest/BAT'>TATrack</a></td>
+    	<td> -</td>
+    	<td>AAAI'2024</td>
+	<td> 26.1/RTX3090</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> 85.3</td>
+    	<td> 61.8</td>
+    	<td> 87.2</td>
+    	<td> 64.4</td>
+	<td> 70.2</td>
+       	<td> 66.7</td>
+    	<td> 56.1</td>
+    	<td> </td>
+    	<td> -</td>
+    	<td> </td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 	 <tr> 
     	<td> <a href='https://github.com/Zhangyong-Tang/GMMT'>GMMT</a></td>
     	<td> -</td>
