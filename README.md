@@ -1157,7 +1157,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
     </tr>
 	 <tr> 
-    	<td><a href='https://github.com/SparkTempest/BAT'>TATrack</a></td>
+    	<td><a href='https://arxiv.org/abs/2401.01244'>TATrack</a></td>
     	<td> -</td>
     	<td>AAAI'2024</td>
 	<td> 26.1/RTX3090</td>
