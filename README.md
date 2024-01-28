@@ -769,6 +769,31 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     </tr>
+    </tr>
+ 	<tr> 
+    	<td> <a href='https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch'> MFGNet </a></td>
+    	    	<td> -</td>
+    	<td>TMM'2022</td>
+	<td> 3.37/Tesla P100</td>
+    	<td>0.889</td>
+    	<td> 0.707</td>
+    	<td> 0.749</td>
+    	<td> 0.494</td>
+    	<td> 0.783</td>
+    	<td> 0.535</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    </tr>
  	<tr> 
     	<td> HMFT</td>
     	    	<td> <a href='https://github.com/zhang-pengyu/HMFT'> published</a></td>
