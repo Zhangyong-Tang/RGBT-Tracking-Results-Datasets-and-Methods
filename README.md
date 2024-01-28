@@ -771,8 +771,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
     </tr>
  	<tr> 
-    	<td> <a href='https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch'> MFGNet </a></td>
-    	    	<td> -</td>
+    	<td> MFGNet</td>
+    	    	<td> <a href='https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch'>pubished</a></td>
     	<td>TMM'2022</td>
 	<td> 3.37/Tesla P100</td>
     	<td>0.889</td>
