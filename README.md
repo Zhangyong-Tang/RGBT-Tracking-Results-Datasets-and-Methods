@@ -1205,7 +1205,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://github.com/mjt1312/Lminet'>LMINet</a></td>
+    	<td> <a href='https://github.com/mjt1312/Lminet'>(47th) LMINet</a></td>
     	<td> -</td>
     	<td>IEEE Sensors Journal'2024</td>
 	<td> 5.6/V100</td>
