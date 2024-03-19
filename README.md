@@ -1131,6 +1131,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+<tr> 
+    	<td> <a href='https://dl.acm.org/doi/10.1145/3581783.3612341'>QAT</a></td>
+    	<td> -</td>
+    	<td>ACMMM'2023</td>
+	<td> 22/</td>
+    	<td>91.5</td>
+    	<td> 75.5</td>
+    	<td> 86.8</td>
+    	<td> 61.9</td>
+    	<td> 88.4</td>
+    	<td> 64.3</td>
+	<td> 64.2</td>
+       	<td> 59.6</td>
+    	<td> 50.1</td>
+    	<td> 80.1</td>
+    	<td> -</td>
+    	<td> 66.7</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 	 <tr> 
     	<td><a href='https://github.com/SparkTempest/BAT'>BAT</a></td>
     	<td> -</td>
