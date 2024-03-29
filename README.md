@@ -1252,6 +1252,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10460420'>CAT++</a></td>
+    	<td> -</td>
+    	<td>TIP'2024</td>
+	<td> 14/2080Ti</td>
+    	<td>91.5</td>
+    	<td> 73.3</td>
+    	<td> 82.2</td>
+    	<td> 56.1</td>
+    	<td> 84.0</td>
+    	<td> 59.2</td>
+	<td> 50.9</td>
+       	<td> 44.4</td>
+    	<td> 34.8</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
