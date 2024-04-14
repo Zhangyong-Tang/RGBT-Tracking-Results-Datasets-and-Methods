@@ -1276,6 +1276,31 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+    </tr>
+	 <tr> 
+    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10472533'>AMNet</a></td>
+    	<td> -</td>
+    	<td>TCSVT'2024</td>
+	<td> 14/2080Ti</td>
+    	<td>92.9</td>
+    	<td> 77.4</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 87.7</td>
+    	<td> 65.5</td>
+	<td> 70.2</td>
+       	<td> 66.0</td>
+    	<td> 55.9</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
