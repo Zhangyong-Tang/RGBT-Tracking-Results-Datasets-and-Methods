@@ -1276,7 +1276,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
-    </tr>
 	 <tr> 
     	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10472533'>AMNet</a></td>
     	<td> -</td>
@@ -1294,6 +1293,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+	 <tr> 
+    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10516307?casa_token=jEMySzd_jh0AAAAA:2EFbV9i_xl8yQM8i0tUlZKVk9RMcOn45MbxiKouZjIQ3RDR7mVK8LeA3MVCBzWOlkDIBQL2W79c'>QueryTrack</a></td>
+    	<td> -</td>
+    	<td>TIP'2024</td>
+	<td> 27/RTX A6000</td>
+    	<td>92.3</td>
+    	<td> 75.9</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 84.1</td>
+    	<td> 60.0</td>
+	<td> -</td>
+       	<td> 66.0</td>
+    	<td> 52.0</td>
+    	<td> -</td>
+    	<td> 75.5</td>
+    	<td> 63.3</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
