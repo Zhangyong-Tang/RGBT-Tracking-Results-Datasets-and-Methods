@@ -1311,11 +1311,11 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 84.1</td>
     	<td> 60.0</td>
-	<td> -</td>
-       	<td> 66.0</td>
+	<td> 75.5</td>
+       	<td> -</td>
     	<td> 52.0</td>
-    	<td> -</td>
     	<td> 75.5</td>
+    	<td> -</td>
     	<td> 63.3</td>
         <td> -</td>
     	<td> -</td>
