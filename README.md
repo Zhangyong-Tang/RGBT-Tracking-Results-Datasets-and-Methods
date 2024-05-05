@@ -1323,6 +1323,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>-</td>
         <td> -</td>
     	<td> -</td>
+    </tr》
+	 <tr> 
+    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10517645'>MCTrack</a></td>
+    	<td> -</td>
+    	<td>TCSVT'2024</td>
+	<td> -</td>
+    	<td>94.1</td>
+    	<td> 77.6</td>
+    	<td> 86.4</td>
+    	<td> 63.7</td>
+    	<td> 87.5</td>
+    	<td> 65.6</td>
+	<td> 71.6</td>
+       	<td> 67.6</td>
+    	<td> 57.1</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
     </tr>
 </table>
 
