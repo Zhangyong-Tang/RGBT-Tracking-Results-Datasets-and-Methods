@@ -1352,7 +1352,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> <a href='https://arxiv.org/abs/2403.16002'>SDSTrack</a></td>
     	<td> <a href='hhttps://github.com/hoqolo/SDSTrack'>publshed</a></td>
     	<td>CVPR'2024</td>
-	<td> -</td>
+	<td> 21/RTX3090Ti</td>
     	<td>-</td>
     	<td> -</td>
     	<td> -</td>
