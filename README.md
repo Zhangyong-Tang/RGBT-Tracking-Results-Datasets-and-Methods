@@ -1348,6 +1348,78 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> <a href='https://arxiv.org/abs/2403.16002'>SDSTrack</a></td>
+    	<td> <a href='hhttps://github.com/hoqolo/SDSTrack'>publshed</a></td>
+    	<td>CVPR'2024</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 84.8</td>
+    	<td> 62.5</td>
+	<td> -</td>
+       	<td> 66.5</td>
+    	<td> 53.1</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+	 <tr> 
+    	<td> <a href='https://arxiv.org/abs/2403.09634'>OneTracker</a></td>
+    	<td> -</td>
+    	<td>CVPR'2024</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 85.7</td>
+    	<td> 64.2</td>
+	<td> -</td>
+       	<td> 67.2</td>
+    	<td> 53.8</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
+	 <tr> 
+    	<td> <a href='https://github.com/Zongwei97/UnTrack'>UnTrack</a></td>
+    	<td> -</td>
+    	<td>CVPR'2024</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 84.2</td>
+    	<td> 62.5</td>
+	<td> -</td>
+       	<td> 66.7</td>
+    	<td> 53.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
