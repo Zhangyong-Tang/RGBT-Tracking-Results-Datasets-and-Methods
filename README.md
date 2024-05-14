@@ -1420,6 +1420,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> <a href='https://arxiv.org/abs/2405.02717'>AFter</a></td>
+    	<td> -</td>
+    	<td>Arxiv'2024</td>
+	<td>RTX 4090/23</td>
+    	<td>91.6</td>
+    	<td> 78.5</td>
+    	<td> 87.6</td>
+    	<td> 63.5</td>
+    	<td> 90.1</td>
+    	<td> 66.7</td>
+	<td> 70.3</td>
+       	<td> 65.8</td>
+    	<td> 55.1</td>
+    	<td> 84.9</td>
+    	<td> -</td>
+    	<td> 72.5</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
