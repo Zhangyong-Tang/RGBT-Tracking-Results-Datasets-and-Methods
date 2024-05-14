@@ -1444,6 +1444,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> <a href='https://arxiv.org/abs/2405.03177'>CSTNet</a></td>
+    	<td> -</td>
+    	<td>Arxiv'2024</td>
+	<td>-</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> 86.0</td>
+    	<td> 63.5</td>
+    	<td> 88.4</td>
+    	<td> 65.2</td>
+	<td> 71.5</td>
+       	<td> 67.9</td>
+    	<td> 57.2</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
