@@ -1468,6 +1468,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530492'>CAFF</a></td>
+    	<td> -</td>
+    	<td>JSEE'2024</td>
+	<td>-</td>
+    	<td>85.2</td>
+    	<td> 72.6</td>
+    	<td> 71.5</td>
+    	<td> 49.2</td>
+    	<td> 74.0</td>
+    	<td> 50.6</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> 56.9</td>
+    	<td> 52.9</td>
+    	<td> 30.0</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
