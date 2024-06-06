@@ -1500,6 +1500,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+	 <tr> 
+    	<td> <a href='https://preprints.opticaopen.org/articles/preprint/Special_attribute-based_cross-modal_interactive_fusion_network_for_RGBT_tracking/25904212'>SAFT</a></td>
+    	<td> -</td>
+    	<td>2024</td>
+	<td>-</td>
+    	<td>91.7</td>
+    	<td> 73.9</td>
+    	<td> -</td>
+    	<td> *</td>
+    	<td> 84.1</td>
+    	<td> 57.3</td>
+	<td> 51.1</td>
+       	<td> -</td>
+    	<td> 35.9</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>
 </table>
 
 -----
