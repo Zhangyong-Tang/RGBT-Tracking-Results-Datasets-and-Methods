@@ -1090,7 +1090,30 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
-	
+	 <tr> 
+    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10331955'>MRDYT</a></td>
+    	<td> -</td>
+    	<td>ICPR'2023</td>
+	<td> 40/RTX3080</td>
+    	<td>90.6</td>
+    	<td> 75.7</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 80.6</td>
+    	<td> 58.3</td>
+	<td> </td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> -</td>
+    	<td> </td>
+        <td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+        <td> -</td>
+    	<td> -</td>
+    </tr>	
 <!-- <tr>  -->
 <!--     	<td> <a href='https://arxiv.org/abs/2308.13764'>USTrack</a></td>
     	<td> -</td>
