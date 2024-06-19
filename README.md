@@ -15,7 +15,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 -----
 
 ## Survey Papers
-* Multi-modal visual tracking: Review and experimental comparison. Zhang, Pengyu, Dong Wang*, and Huchuan Lu. Computational Visual Media 2024. [Paper]
+* Multi-modal visual tracking: Review and experimental comparison. Zhang, Pengyu, Dong Wang*, and Huchuan Lu. Computational Visual Media 2024. [[Paper](https://link.springer.com/article/10.1007/s41095-023-0345-5)]
 * RGBT tracking: A comprehensive review. Mingzheng Feng, Jianbo Su*. Information Fusion 2024. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524002707)]
 * Review and Analysis of RGBT Single Object Tracking Methods: A Fusion Perspective. Zhihao Zhang, Jun Wang, Zhuli Zang, Lei Jin, Shengjie Li, Hao Wu*,Jian Zhao, Zhang Bo. ACM TOMM 2024. [[Paper](https://dl.acm.org/doi/10.1145/3651308)]
 * Object fusion tracking based on visible and infrared images: A comprehensive review. Xingchen Zhang, Ping Ye, Henry Leung, Ke Gong, Gang Xiao*. Information Fusion 2020. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)]
@@ -35,7 +35,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 | VOT-RGBT19| VOT Community：2019 |[VOT-RGBT2019](https://pan.baidu.com/s/1kYnTTWF9LIkrCH4NNsSlFQ) *CODE:TZYD* | 60 Video pairs, about 2W frame pairs, a sub-set of RGBT 234|
 | VOT-RGBT20|VOT Community： 2020 | [VOT-RGBT2020](https://pan.baidu.com/s/1fNgAVk4siqP2p-b1M2ZGmg ) *CODE:TZYD*| 60 Video pairs, its data is the same with VOT-RGBT2019, but with different evaluation mechanism|
 | LasHeR| TIP'2021 | [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR) | train/test split, imaged in the head-up view, above 70W image pairs in total; 245 videos in the test set|
-| VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) | imaged in the top-down view by uav, long-term;176 videos in the test-st, which has around 3500 frames in average|
+| VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) | imaged in the top-down view by uav, long-term;176 videos in the test-st, which has around 3300 frames in average|
 | MV-RGBT| Arxiv'2024 |[MV-RGBT](https://github.com/Zhangyong-Tang/MVRGBT) |122 video pairs. The data in this benchmark mainly focus on the modality validity.|
 
 ***Generated Data***
@@ -50,9 +50,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
 <table>
     <tr> 
         <th colspan="1"></th> 
-        <th colspan="1"></th> 
-		<th colspan="1"></th> 
-		<th colspan="1"></th> 
+	<th colspan="1"></th> 
+	<th colspan="1"></th> 
         <th colspan="2">GTOT</th> 
         <th colspan="2">RGBT210</th> 
         <th colspan="2">RGBT234</th> 
@@ -60,9 +59,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
     <tr>
     	<td> Methods</td>
-    	<td>Code</td>
     	<td>Venue</td>
-		<td>Speed</td>
+	<td>Speed</td>
     	<td> PR</td>
     	<td> SR</td>
     	<td> PR</td>
@@ -75,8 +73,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	
     </tr>
 <tr> 
-    	<td><a href='https://github.com/SparkTempest/BAT'>BAT</a></td>
-    	<td> -</td>
+    	<td>BAT</td>
     	<td>AAAI'2024</td>
 	<td> -</td>
     	<td>-</td>
@@ -91,8 +88,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
     </tr>
 	 <tr> 
-    	<td><a href='https://arxiv.org/abs/2401.01244'>TATrack</a></td>
-    	<td> -</td>
+    	<td>TATrack</td>
     	<td>AAAI'2024</td>
 	<td> 26.1/RTX3090</td>
     	<td>-</td>
@@ -106,8 +102,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 56.1</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://github.com/Zhangyong-Tang/GMMT'>GMMT</a></td>
-    	<td> -</td>
+    	<td>GMMT</td>
     	<td>AAAI'2024</td>
 	<td> 18/RTX3090Ti</td>
     	<td>93.6</td>
@@ -121,8 +116,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 56.6</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://github.com/mjt1312/Lminet'>(47th) LMINet</a></td>
-    	<td> -</td>
+    	<td>LMINet</td>
     	<td>IEEE Sensors Journal'2024</td>
 	<td> 5.6/V100</td>
     	<td>91.4</td>
@@ -136,8 +130,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 34.8</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10460420'>CAT++</a></td>
-    	<td> -</td>
+    	<td> CAT++</td>
     	<td>TIP'2024</td>
 	<td> 14/2080Ti</td>
     	<td>91.5</td>
@@ -151,8 +144,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 34.8</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10472533'>AMNet</a></td>
-    	<td> -</td>
+    	<td>AMNet</td>
     	<td>TCSVT'2024</td>
 	<td> 14/2080Ti</td>
     	<td>92.9</td>
@@ -166,8 +158,21 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 55.9</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10516307?casa_token=jEMySzd_jh0AAAAA:2EFbV9i_xl8yQM8i0tUlZKVk9RMcOn45MbxiKouZjIQ3RDR7mVK8LeA3MVCBzWOlkDIBQL2W79c'>QueryTrack</a></td>
+    	<td>MPLKD</td>
+    	<td>Arxiv'2024</td>
+	<td> 81.8/RTX3090</td>
+    	<td>92.4</td>
+    	<td> 77.3</td>
     	<td> -</td>
+    	<td> -</td>
+    	<td> 87.3</td>
+    	<td> 65.1</td>
+	<td> 71.4</td>
+       	<td> -</td>
+    	<td> 56.7</td>
+    </tr>
+	 <tr> 
+    	<td>QueryTrack<</td>
     	<td>TIP'2024</td>
 	<td> 27/RTX A6000</td>
     	<td>92.3</td>
@@ -181,8 +186,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 52.0</td>
 	 </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10517645'>MCTrack</a></td>
-    	<td> -</td>
+    	<td>MCTrack</td>
     	<td>TCSVT'2024</td>
 	<td> -</td>
     	<td>94.1</td>
@@ -194,11 +198,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 71.6</td>
        	<td> 67.6</td>
     	<td> 57.1</td>
-    	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://arxiv.org/abs/2403.16002'>SDSTrack</a></td>
-    	<td> <a href='hhttps://github.com/hoqolo/SDSTrack'>publshed</a></td>
+    	<td> SDSTrack</td>
     	<td>CVPR'2024</td>
 	<td> 21/RTX3090Ti</td>
     	<td>-</td>
@@ -212,8 +214,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 53.1</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://arxiv.org/abs/2403.09634'>OneTracker</a></td>
-    	<td> -</td>
+    	<td>OneTracker</td>
     	<td>CVPR'2024</td>
 	<td> -</td>
     	<td>-</td>
@@ -227,8 +228,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 53.8</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://github.com/Zongwei97/UnTrack'>UnTrack</a></td>
-    	<td> -</td>
+    	<td> UnTrack</td>
     	<td>CVPR'2024</td>
 	<td> -</td>
     	<td>-</td>
@@ -237,15 +237,14 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> 84.2</td>
     	<td> 62.5</td>
-	<td> -</td>
-       	<td> 66.7</td>
+	<td> 66.7</td>
+       	<td> -</td>
     	<td> 53.6</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://arxiv.org/abs/2405.02717'>AFter</a></td>
-    	<td> -</td>
+    	<td> AFter</td>
     	<td>Arxiv'2024</td>
-	<td>RTX 4090/23</td>
+	<td>23/RTX 4090</td>
     	<td>91.6</td>
     	<td> 78.5</td>
     	<td> 87.6</td>
@@ -257,8 +256,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 55.1</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://arxiv.org/abs/2405.03177'>CSTNet</a></td>
-    	<td> -</td>
+    	<td>CSTNet</td>
     	<td>Arxiv'2024</td>
 	<td>-</td>
     	<td>-</td>
@@ -272,8 +270,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 57.2</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530492'>CAFF</a></td>
-    	<td> -</td>
+    	<td> CAFF</td>
     	<td>JSEE'2024</td>
 	<td>-</td>
     	<td>85.2</td>
@@ -287,8 +284,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://preprints.opticaopen.org/articles/preprint/Special_attribute-based_cross-modal_interactive_fusion_network_for_RGBT_tracking/25904212'>SAFT</a></td>
-    	<td> -</td>
+    	<td> SAFT</td>
     	<td>2024</td>
 	<td>-</td>
     	<td>91.7</td>
@@ -300,6 +296,76 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 51.1</td>
        	<td> -</td>
     	<td> 35.9</td>
+    </tr>
+ <tr> 
+    	<td> IPL</td>
+    	<td>Arxiv'2024</td>
+	<td>-</td>
+    	<td>91.7</td>
+    	<td> 73.9</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 88.3</td>
+    	<td> 65.7</td>
+	<td> 69.4</td>
+       	<td> 65.6</td>
+    	<td> 55.3</td>
+    </tr>
+ <tr> 		
+    	<td> MPT</td>
+    	<td>TCSVT'2024</td>
+	<td>-</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 76.9</td>
+    	<td> 55.0</td>
+	<td> 35.5</td>
+       	<td> -</td>
+    	<td> 31.3</td>
+    </tr>
+ <tr> 		
+    	<td> MIGTD</td>
+    	<td>PR'2024</td>
+	<td>-</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 87.6</td>
+    	<td> 65.8</td>
+	<td> 72.0</td>
+       	<td> 68.1</td>
+    	<td> 57.2</td>
+    </tr>
+ <tr> 		
+    	<td> Proformer</td>
+    	<td>TCSVT'2024</td>
+	<td>22</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> 86.8</td>
+    	<td> 62.2</td>
+    	<td> 89.9</td>
+    	<td> 65.7</td>
+	<td> 67.4</td>
+       	<td> 63.0</td>
+    	<td> 53.3</td>
+    </tr>
+ <tr> 		
+    	<td> AWCM</td>
+    	<td>TOMM'2024</td>
+	<td>5/1080Ti</td>
+    	<td>89.6</td>
+    	<td>73.8</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 79.6</td>
+    	<td> 56.9</td>
+	<td> </td>
+       	<td> </td>
+    	<td> </td>
     </tr>
 <tr> 
     	<td> DFAT</td>
@@ -944,6 +1010,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <th colspan="3">VOT-RGBT2019</th> 
         <th colspan="3">VOT-RGBT2020</th> 
     </tr>
+ <tr> 		
+    	<td> MIGTD</td>
+    	<td>PR'2024</td>
+	<td>26.9</td>
+    	<td>88.3</td>
+    	<td> -</td>
+    	<td> 75.5</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
     <tr>
     	<td> Methods</td>
     	 <td>Code</td>
@@ -959,8 +1039,63 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> A</td>
     	<td> EAO</td> 	
     </tr>
+ <tr> 		
+    	<td> Proformer</td>
+    	<td>TCSVT'2024</td>
+	<td>22</td>
+    	<td>84.6</td>
+    	<td> -</td>
+    	<td> 71.0</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
+ <tr> 
+    	<td> IPL</td>
+    	<td>Arxiv'2024</td>
+	<td>-</td>
+    	<td>87.5</td>
+    	<td> -</td>
+    	<td> 75.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
+ <tr> 		
+    	<td> MPT</td>
+    	<td>TCSVT'2024</td>
+	<td>-</td>
+    	<td>66.1</td>
+    	<td> -</td>
+    	<td> 54.1</td>
+    	<td> 79.1</td>
+    	<td> 57.2</td>
+    	<td> 35.6</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
+	 <tr> 
+    	<td>MPLKD</td>
+    	<td>Arxiv'2024</td>
+	<td> 81.8/RTX3090</td>
+    	<td>80.2</td>
+    	<td> -</td>
+    	<td> 67.4</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
     	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10516307?casa_token=jEMySzd_jh0AAAAA:2EFbV9i_xl8yQM8i0tUlZKVk9RMcOn45MbxiKouZjIQ3RDR7mVK8LeA3MVCBzWOlkDIBQL2W79c'>QueryTrack</a></td>
+    	<td>QueryTrack</td>
     	<td> -</td>
     	<td>TIP'2024</td>
 	<td> 27/RTX A6000</td>
