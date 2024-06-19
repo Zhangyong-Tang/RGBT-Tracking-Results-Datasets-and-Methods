@@ -369,7 +369,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
 <tr> 
     	<td> DFAT</td>
-    	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
     	<td>INFFUS'2023</td>
 	<td> 22/RTX2080Ti</td>
     	<td>0.893</td>
@@ -384,7 +383,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
        <tr> 
     	<td> ViPT</td>
-    	<td> <a href='https://github.com/jiawen-zhu/ViPT'>published</a></td>
     	<td>CVPR'2023</td>
 	<td> -</td>
     	<td>-</td>
@@ -398,8 +396,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.525</td>
     </tr>
        <tr> 
-    	<td> <a href='[https://github.com/jiawen-zhu/ViPT](https://eprints.whiterose.ac.uk/198539/1/4808_efficient_rgb_t_tracking_via_c-Camera-ready%20PDF.pdf)'>HFRD</a></td>
-    	<td> -</td>
+    	<td>CMD</td>
     	<td>CVPR'2023</td>
 	<td> 30/RTX1080Ti</td>
     	<td>0.892</td>
@@ -414,7 +411,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
     </tr>
        <tr> 
     	<td> TBSI</td>
-    	<td> <a href='https://github.com/RyanHTR/TBSI'>published</a></td>
     	<td>CVPR'2023</td>
 	<td> 36/RTX3080Ti</td>
     	<td>-</td>
@@ -428,8 +424,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.556</td>
     </tr>
        <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184056'>BD2Track</a></td>
-    	<td> -</td>
+    	<td>BD2Track</td>
     	<td>SPL'2023</td>
 	<td> -</td>
     	<td>-</td>
@@ -443,8 +438,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.432</td>
     </tr>
        <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/document/10226308'>SiamTDR</a></td>
-    	<td> -</td>
+    	<td> SiamTDR</td>
     	<td>TICPS'2023</td>
 	<td> 127/RTX3090</td>
     	<td>88.5</td>
@@ -458,8 +452,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
        <tr> 
-    	<td>  <a href='https://pubmed.ncbi.nlm.nih.gov/37587133/'>SiamAFTS</a> </td>
-    	<td> -</td>
+    	<td>SiamAFTS</td>
     	<td>ScienticReport'2023</td>
 	<td> -</td>
     	<td>84.9</td>
@@ -473,23 +466,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td><a href='https://link.springer.com/article/10.1007/s10489-023-04741-y'>paper</a> </td>
-    	<td> -</td>
-    	<td>Applied Intelligence'2023</td>
-	<td> 15/GTX1080Ti</td>
-    	<td>91.6</td>
-    	<td> 74.4</td>
-    	<td> 80.2</td>
-    	<td> 56.8</td>
-    	<td> 83.6</td>
-    	<td> 60.4</td>
-	<td> 63.6</td>
-       	<td> 59.4</td>
-    	<td> 50.0</td>
-    </tr>
-	 <tr> 
     	<td>UMT</td>
-    	<td> -</td>
     	<td>AIEA'2023</td>
 	<td> 3/GTX1080Ti</td>
     	<td>89.2</td>
@@ -503,8 +480,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 36.9</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10331955'>MRDYT</a></td>
-    	<td> -</td>
+    	<td>MPDMT</td>
     	<td>ICPR'2023</td>
 	<td> 40/RTX3080</td>
     	<td>90.6</td>
@@ -518,8 +494,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> </td>
     </tr>	
 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/abstract/document/10252033'>RFSTrack</a></td>
-    	<td> -</td>
+    	<td> RSFNet</td>
     	<td>SPL'2023</td>
 	<td> 83/RTX3090</td>
     	<td>92.1</td>
@@ -533,8 +508,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 52.6</td>
     </tr>
 <tr> 
-    	<td> <a href='https://dl.acm.org/doi/10.1145/3581783.3612341'>QAT</a></td>
-    	<td> -</td>
+    	<td> QAT</td>
     	<td>ACMMM'2023</td>
 	<td> 22/</td>
     	<td>91.5</td>
@@ -546,6 +520,48 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 64.2</td>
        	<td> 59.6</td>
     	<td> 50.1</td>
+    </tr>
+<tr> 
+    	<td> PRO</td>
+    	<td>CCDC'2023</td>
+	<td></td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> 68.0</td>
+    	<td> 47.8</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
+<tr> 
+    	<td> DFNet</td>
+    	<td>TIST'2023</td>
+	<td></td>
+    	<td>88.1</td>
+    	<td> 71.9</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 77.2</td>
+    	<td> 51.3</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
+<tr> 
+    	<td> DTAN</td>
+    	<td>Cognitive Computation'2023</td>
+	<td>0.5</td>
+    	<td>88.</td>
+    	<td> 71.5</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 78.2</td>
+    	<td> 55.1</td>
+	<td> 57.5</td>
+       	<td> 51.6</td>
+    	<td> 41.0</td>
     </tr>
 <tr> 
     	<td> APFNet</td>
