@@ -1454,11 +1454,24 @@ This repository is started on 02/07/2023, and will keep on updating.**
     <tr> 
         <th colspan="1"></th> 
         <th colspan="1"></th> 
-		<th colspan="1"></th> 
-		<th colspan="1"></th> 
+	<th colspan="1"></th> 
         <th colspan="3">VTUAV</th> 
         <th colspan="3">VOT-RGBT2019</th> 
         <th colspan="3">VOT-RGBT2020</th> 
+    </tr>
+    <tr>
+    	<td> Methods</td>
+    	<td>Venue</td>
+	<td>Speed</td>
+    	<td> PR</td>
+    	<td> NPR</td>
+    	<td> SR</td>
+       	<td> R</td>
+    	<td> A</td>
+    	<td> EAO</td>
+    	<td> R</td>
+    	<td> A</td>
+    	<td> EAO</td> 	
     </tr>
  <tr> 		
     	<td> MIGTD</td>
@@ -1473,21 +1486,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> -</td>
        	<td> -</td>
     	<td> -</td>
-    </tr>
-    <tr>
-    	<td> Methods</td>
-    	 <td>Code</td>
-    	<td>Venue</td>
-	<td>Speed</td>
-    	<td> PR</td>
-    	<td> NPR</td>
-    	<td> SR</td>
-       	<td> R</td>
-    	<td> A</td>
-    	<td> EAO</td>
-    	<td> R</td>
-    	<td> A</td>
-    	<td> EAO</td> 	
     </tr>
  <tr> 		
     	<td> Proformer</td>
