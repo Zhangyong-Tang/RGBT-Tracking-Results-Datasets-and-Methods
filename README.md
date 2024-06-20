@@ -241,6 +241,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
        	<td> -</td>
     	<td> 53.6</td>
     </tr>
+<tr> 
+    	<td> UStrack</td>
+    	<td> IJCAI'2024</td>
+	<td>84.2</td>
+    	<td>93.4</td>
+    	<td>78.3</td>
+    	<td></td>
+    	<td></td>
+    	<td>87.4</td>
+    	<td>65.8</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
 	 <tr> 
     	<td> AFter</td>
     	<td>Arxiv'2024</td>
@@ -562,6 +576,426 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 57.5</td>
        	<td> 51.6</td>
     	<td> 41.0</td>
+    </tr>
+<tr> 
+    	<td> DECFNet</td>
+    	<td>ICMA'2023</td>
+	<td>27.6</td>
+    	<td>90.4</td>
+    	<td> 70.8</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> 49.6</td>
+       	<td> -</td>
+    	<td> 35.0</td>
+    </tr>
+<tr> 
+    	<td> DMSTM</td>
+    	<td>TIM'2023</td>
+	<td></td>
+    	<td>92.9</td>
+    	<td> 75.9</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 78.6</td>
+    	<td> 56.2</td>
+	<td> 54.1</td>
+       	<td> 49.4</td>
+    	<td> 40.0</td>
+    </tr>
+<tr> 
+    	<td> SiamFEA</td>
+    	<td>JVCIR'2023</td>
+	<td></td>
+    	<td>92.0</td>
+    	<td> 76.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 83.7</td>
+    	<td> 61.7</td>
+	<td> 64.5</td>
+       	<td> -</td>
+    	<td> 50.9</td>
+    </tr>
+<tr> 
+    	<td> HATFNet</td>
+    	<td>Applied Intelligence'2023</td>
+	<td>9.8</td>
+    	<td>91.8/td>
+    	<td> 77.3</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 80.7</td>
+    	<td> 59.5</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> MACFT</td>
+    	<td>Sensors'2023</td>
+	<td>31</td>
+    	<td>-/td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 85.7</td>
+    	<td> 62.2</td>
+	<td>65.3</td>
+       	<td> -</td>
+    	<td>51.4</td>
+    </tr>
+<tr> 
+    	<td> LCMIT</td>
+    	<td>SCIENCE CHINA Information Sciences'2023</td>
+	<td></td>
+    	<td>93.9/td>
+    	<td> 74.1</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 83.1</td>
+    	<td> 57.8</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> MMMPT</td>
+    	<td>IPT'2023</td>
+	<td></td>
+    	<td>90.3/td>
+    	<td> 73.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 79.8</td>
+    	<td> 54.6</td>
+	<td>53.0</td>
+       	<td> -</td>
+    	<td>40.0</td>
+    </tr>
+<tr> 
+    	<td> MPDMT</td>
+    	<td>ICPR'2023</td>
+	<td>42</td>
+    	<td>90.6/td>
+    	<td> 75.7</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 80.7</td>
+    	<td> 58.3</td>
+	<td>53.0</td>
+       	<td> -</td>
+    	<td>40.0</td>
+    </tr>
+<tr> 
+    	<td> FSBNet</td>
+    	<td>Neural Computing and Applications'2023</td>
+	<td>27</td>
+    	<td>91.3/td>
+    	<td> 72.1</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 82.4</td>
+    	<td> 56.2</td>
+	<td>53.7</td>
+       	<td> -</td>
+    	<td>42.5</td>
+    </tr>
+<tr> 
+    	<td> MTNet</td>
+    	<td>ICME'2023</td>
+	<td>-</td>
+    	<td>93.5/td>
+    	<td>76.0</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 85.0</td>
+    	<td> 61.9</td>
+	<td>60.8</td>
+       	<td> -</td>
+    	<td>47.4</td>
+    </tr>
+<tr> 
+    	<td> SiamMFF</td>
+    	<td>CACML'2023</td>
+	<td>-</td>
+    	<td>90.5/td>
+    	<td>73.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 81.2</td>
+    	<td> 57.3</td>
+	<td>60.8</td>
+       	<td> -</td>
+    	<td>47.4</td>
+    </tr>
+<tr> 
+    	<td> LSAR</td>
+    	<td>TCSVT'2023</td>
+	<td>-</td>
+    	<td>85.5/td>
+    	<td>70.3</td>
+    	<td>77.5</td>
+    	<td>54.9</td>
+    	<td> 78.4</td>
+    	<td> 55.9</td>
+	<td>46.0</td>
+       	<td> -</td>
+    	<td>38.5</td>
+    </tr>
+<tr> 
+    	<td> CSMMA</td>
+    	<td>Sensors Journal'2023</td>
+	<td>20</td>
+    	<td>89.5/td>
+    	<td>73.0</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td> 77.8</td>
+    	<td> 53.2</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> MPLT</td>
+    	<td>Arxiv'2023</td>
+	<td></td>
+    	<td>-/td>
+    	<td>-</td>
+    	<td>86.2</td>
+    	<td>63.0</td>
+    	<td>88.4</td>
+    	<td>65.7</td>
+	<td>72.0</td>
+       	<td> -</td>
+    	<td>57.1</td>
+    </tr>
+<tr> 
+    	<td> CRSP</td>
+    	<td>ICIP'2023</td>
+	<td>-</td>
+    	<td>90.4</td>
+    	<td>77.2</td>
+    	<td>74.0</td>
+    	<td>63.2</td>
+    	<td>-</td>
+    	<td>-</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> GABBP</td>
+    	<td>TNNLS'2023</td>
+	<td>-</td>
+    	<td>90.3</td>
+    	<td>77.2</td>
+    	<td>68.6</td>
+    	<td>68.5</td>
+    	<td>-</td>
+    	<td>59.7</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> PLASSO-ADSPF</td>
+    	<td>KBS'2023</td>
+	<td>63</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>82.7</td>
+    	<td>59.2</td>
+	<td>54.7</td>
+       	<td> -</td>
+    	<td>47.4</td>
+    </tr>
+<tr> 
+    	<td> SRCDCF</td>
+    	<td>IPT'2023</td>
+	<td>53</td>
+    	<td>83.0</td>
+    	<td>65.3</td>
+    	<td>66.3</td>
+    	<td>47.5</td>
+    	<td>66.9</td>
+    	<td>47.8</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> MFENet</td>
+    	<td>Multimedia Tools and Applications'2023</td>
+	<td>1.43</td>
+    	<td>89.8</td>
+    	<td>71.9</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>83.2</td>
+    	<td>57.1</td>
+	<td>51.7</td>
+       	<td> -</td>
+    	<td>37.4</td>
+    </tr>
+<tr> 
+    	<td> RMFNet</td>
+    	<td> Applied Sciences'2023</td>
+	<td>10</td>
+    	<td>91.1</td>
+    	<td>76.9</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>79.4</td>
+    	<td>58.5</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> M2GCI</td>
+    	<td> NPL'2023</td>
+	<td></td>
+    	<td>90.9</td>
+    	<td>73.7</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>79.3</td>
+    	<td>56.9</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> SiamIVFN</td>
+    	<td> JMLC'2023</td>
+	<td>147</td>
+    	<td>91.5</td>
+    	<td>79.3</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>81.1</td>
+    	<td>63.2</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> STRT</td>
+    	<td> Applied Intelligence'2023</td>
+	<td>15</td>
+    	<td>91.3</td>
+    	<td>74.4</td>
+    	<td>80.2</td>
+    	<td>56.8</td>
+    	<td>83.6</td>
+    	<td>60.4</td>
+	<td>63.6</td>
+       	<td>59.4</td>
+    	<td>50.0</td>
+    </tr>
+<tr> 
+    	<td> SGF_MDNet+RGBT</td>
+    	<td> IET Image Processinge'2023</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>73.8</td>
+    	<td>56.3</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+<tr> 
+    	<td> SiamCAF</td>
+    	<td> Remote Sensing'2023</td>
+	<td></td>
+    	<td>90.6</td>
+    	<td>73.0</td>
+    	<td></td>
+    	<td></td>
+    	<td>77.1</td>
+    	<td>53.7</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+<tr> 
+    	<td> TEFNet</td>
+    	<td> PRCV'2023</td>
+	<td>25.5</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td>63.1</td>
+       	<td>59.1</td>
+    	<td>50.1</td>
+    </tr>
+<tr> 
+    	<td> DAPF</td>
+    	<td> Multimedia Tools and Applications'2023</td>
+	<td>1.16</td>
+    	<td>-</td>
+    	<td></td>
+    	<td>-</td>
+    	<td></td>
+    	<td>86.0</td>
+    	<td>62.0</td>
+	<td>71.1</td>
+       	<td></td>
+    	<td>51.6</td>
+    </tr>
+<tr> 
+    	<td> UDT-FF</td>
+    	<td> Multimedia Tools and Applications'2023</td>
+	<td>71.9</td>
+    	<td>79.3</td>
+    	<td>65.1</td>
+    	<td>-</td>
+    	<td></td>
+    	<td>56.1</td>
+    	<td>41.4</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+<tr> 
+    	<td> UMT</td>
+    	<td> AIEA'2023</td>
+	<td></td>
+    	<td>89.2</td>
+    	<td>73.0</td>
+    	<td>-</td>
+    	<td></td>
+    	<td>84.2</td>
+    	<td>60.3</td>
+	<td>49.3</td>
+       	<td>43.0</td>
+    	<td>36.9</td>
+    </tr>
+<tr> 
+    	<td> CSRDCF_RGBT</td>
+    	<td> IEEE SENSORS JOURNAL'2023</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>-</td>
+    	<td></td>
+    	<td>70.7</td>
+    	<td>51.4</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
     </tr>
 <tr> 
     	<td> APFNet</td>
@@ -1125,9 +1559,22 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
 	 </tr>
+<tr> 
+    	<td> UStrack</td>
+    	<td> IJCAI'2024</td>
+	<td>84.2</td>
+    	<td>86.9</td>
+    	<td></td>
+    	<td>74.4</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
 	 <tr> 
-    	<td> <a href='https://arxiv.org/abs/2405.02717'>AFter</a></td>
-    	<td> -</td>
+    	<td> AFter</td>
     	<td>Arxiv'2024</td>
 	<td>RTX 4090/23</td>
     	<td> 84.9</td>
@@ -1141,8 +1588,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530492'>CAFF</a></td>
-    	<td> -</td>
+    	<td>CAFF</td>
     	<td>JSEE'2024</td>
 	<td>-</td>
     	<td> -</td>
@@ -1155,9 +1601,22 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     </tr>
+<tr> 
+    	<td> DBDFAN</td>
+    	<td>Drones'2023</td>
+	<td>31.2</td>
+    	<td>64.2</td>
+    	<td>-</td>
+    	<td> 51.6</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
        <tr> 
     	<td> DFAT</td>
-    	<td> <a href='https://github.com/Zhangyong-Tang/DFAT-Information-Fusion/'>published</a></td>
     	<td>INFFUS'2023</td>
 	<td> 22/RTX2080Ti</td>
         <td> -</td>
@@ -1170,9 +1629,64 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> 0.779</td>
     	<td> 0.390</td>
     </tr>
-	 <tr> 
-    	<td><a href='https://link.springer.com/article/10.1007/s10489-023-04741-y'>paper</a> </td>
+<tr> 
+    	<td> DTAT</td>
+    	<td>JIPS'2023</td>
+	<td></td>
+    	<td>61.3</td>
     	<td> -</td>
+    	<td> 51.2.</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td> -</td>
+       	<td> -</td>
+    	<td> -</td>
+    </tr>
+<tr> 
+    	<td> MACFT</td>
+    	<td>Sensors'2023</td>
+	<td>31</td>
+    	<td>80.1/td>
+    	<td> -</td>
+    	<td> 66.8</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> -</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> LSAR</td>
+    	<td>TCSVT'2023</td>
+	<td>8</td>
+    	<td>42.7/td>
+    	<td>-</td>
+    	<td> 36.3</td>
+    	<td>81.1</td>
+    	<td>61.6</td>
+    	<td> 40.0</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> CSMMA</td>
+    	<td>Sensors Journal'2023</td>
+	<td>20</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>66.1</td>
+    	<td>60.5</td>
+    	<td>38.7</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+	 <tr> 
+    	<td>STRT</td>
     	<td>Applied Intelligence'2023</td>
 	<td> 15/GTX1080Ti</td>
     	<td> 69.2</td>
@@ -1184,10 +1698,79 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>-</td>
         <td> -</td>
     	<td> -</td>
-    </tr>	
+    </tr>
 <tr> 
-    	<td> <a href='https://dl.acm.org/doi/10.1145/3581783.3612341'>QAT</a></td>
+    	<td> LCMIT</td>
+    	<td>SCIENCE CHINA Information Sciences'2023</td>
+	<td></td>
+    	<td>-/td>
+    	<td>-</td>
     	<td> -</td>
+    	<td> 71.6</td>
+    	<td> 62.5</td>
+    	<td>38.1</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> MMMPT</td>
+    	<td>IPT'2023</td>
+	<td></td>
+    	<td>73.1/td>
+    	<td> -</td>
+    	<td> 60.2</td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td>-</td>
+	<td>-</td>
+       	<td> -</td>
+    	<td>-</td>
+    </tr>
+<tr> 
+    	<td> PLASSO-ADSPF</td>
+    	<td>KBS'2023</td>
+	<td>63</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+	<td>81.2</td>
+       	<td>67.0</td>
+    	<td>49.9</td>
+    </tr>
+<tr> 
+    	<td> SRCDCF</td>
+    	<td>IPT'2023</td>
+	<td>53</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+    	<td>-</td>
+	<td>72.0</td>
+       	<td>61.7</td>
+    	<td>37.0</td>
+    </tr>
+<tr> 
+    	<td> SiamCAF</td>
+    	<td> Remote Sensing'2023</td>
+	<td></td>
+    	<td>67.0</td>
+    	<td></td>
+    	<td>54.1</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+<tr> 
+    	<td> QAT</td>
     	<td>ACMMM'2023</td>
 	<td> 22/</td>
     	<td> 80.1</td>
@@ -1199,6 +1782,34 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>-</td>
         <td> -</td>
     	<td> -</td>
+    </tr>
+<tr> 
+    	<td> TEFNet</td>
+    	<td> PRCV'2023</td>
+	<td>25.5</td>
+    	<td>75.8</td>
+    	<td></td>
+    	<td>64.9</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+<tr> 
+    	<td> CSRDCF_RGBT</td>
+    	<td> IEEE SENSORS JOURNAL'2023</td>
+	<td></td>
+    	<td>65.3</td>
+    	<td></td>
+    	<td>56.1</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
     </tr>
     <tr> 
     	<td> TAAT</td>
