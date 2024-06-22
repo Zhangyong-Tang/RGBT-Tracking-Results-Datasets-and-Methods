@@ -46,8 +46,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 
 
 ## Results
-
-<table  width="100%" height="100%">
+<table width="100%" height="100%">
     <tr> 
         <th colspan="1"></th> 
 	<th colspan="1"></th> 
