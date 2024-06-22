@@ -1824,7 +1824,6 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	 <tr> 
     	<td>QueryTrack</td>
-    	<td> -</td>
     	<td>TIP'2024</td>
 	<td> 27/RTX A6000</td>
     	<td> 75.5</td>
