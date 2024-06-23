@@ -70,6 +70,62 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>XTrack</td>
+    	<td>Arxiv'2024</td>
+	<td> -</td>
+    	<td>-</td>
+    	<td> -</td>
+    	<td> </td>
+    	<td> </td>
+    	<td>84.8</td>
+    	<td> 62.2</td>
+	<td> 65.5</td>
+       	<td> </td>
+    	<td> 52.5</td>
+    </tr>
+<tr> 
+    	<td>SeqTrackv2</td>
+    	<td>Arxiv'2024</td>
+	<td> -</td>
+    	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td>68.5</td>
+    	<td> 92.3</td>
+	<td> 76.7</td>
+       	<td> </td>
+    	<td> 61.0</td>
+    </tr>
+<tr> 
+    	<td>KSTrack</td>
+    	<td>TCSVT'2024</td>
+	<td> -</td>
+    	<td>95.5</td>
+    	<td> 74.1</td>
+    	<td> </td>
+    	<td> </td>
+    	<td>85.0</td>
+    	<td> 58.7</td>
+	<td> </td>
+       	<td> </td>
+    	<td> </td>
+    </tr>
+<tr> 
+    	<td>MINet</td>
+    	<td>IVC'2024</td>
+	<td> -</td>
+    	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td>84.3</td>
+    	<td> 62.9</td>
+	<td> 65.9</td>
+       	<td> </td>
+    	<td> 52.9</td>
+    </tr>
+<tr> 
     	<td>BAT</td>
     	<td>AAAI'2024</td>
 	<td> -</td>
@@ -376,6 +432,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> </td>
        	<td> </td>
     	<td> </td>
+    </tr>
+<tr> 
+    	<td> FDAFT</td>
+    	<td>PRCV'2023</td>
+	<td> </td>
+    	<td></td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 88.2</td>
+    	<td> 66.4</td>
+    	<td> 68.9</td>
+    	<td> -</td>
+    	<td> 55.3</td>
     </tr>
 <tr> 
     	<td> DFAT</td>
@@ -1071,12 +1141,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>-</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.786</td>
-    	<td> 0.587</td>
-    	<td> 0.509</td>
-    	<td> -</td>
-    	<td> 0.421</td>
-    	<td> -</td>
+    	<td> </td>
+    	<td> 78.6</td>
+    	<td> 58.7</td>
+    	<td> 50.9</td>
+    	<td> </td>
+    	<td> 42.1</td>
     </tr>
 <tr> 
     	<td> AGMINet</td>
