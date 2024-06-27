@@ -1868,8 +1868,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>66.1</td>
     	<td> -</td>
     	<td> 54.1</td>
-    	<td> 79.1</td>
     	<td> 57.2</td>
+    	<td> 79.1</td>
     	<td> 35.6</td>
 	<td> -</td>
        	<td> -</td>
