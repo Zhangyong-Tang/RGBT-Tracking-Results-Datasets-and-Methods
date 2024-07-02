@@ -70,6 +70,34 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>TIH</td>
+    	<td>PR'2024</td>
+	<td> 72</td>
+    	<td>93.5</td>
+    	<td> 77.0</td>
+    	<td> </td>
+    	<td> </td>
+    	<td>89.4</td>
+    	<td> 66.4</td>
+	<td> 72.0</td>
+       	<td> 67.7</td>
+    	<td> 57.2</td>
+    </tr>
+<tr> 
+    	<td>AMRT</td>
+    	<td>electronics'2024</td>
+	<td> 32.31</td>
+    	<td>90.0</td>
+    	<td> 73.0</td>
+    	<td> </td>
+    	<td> </td>
+    	<td>84.4</td>
+    	<td> 60.2</td>
+	<td> 46.8</td>
+       	<td> </td>
+    	<td> 32.4</td>
+    </tr>
+<tr> 
     	<td>XTrack</td>
     	<td>Arxiv'2024</td>
 	<td> -</td>
