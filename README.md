@@ -70,10 +70,24 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>MMSTC</td>
+    	<td>TIP'2024</td>
+	<td> </td>
+    	<td>94.1</td>
+    	<td> 77.9</td>
+    	<td>88.6</td>
+    	<td>65.7</td>
+    	<td>89.8</td>
+    	<td> 67.3</td>
+	<td> 72.3</td>
+       	<td> 68.6</td>
+    	<td> 57.4</td>
+    </tr>
+<tr> 
     	<td>TIH</td>
     	<td>PR'2024</td>
 	<td> 72</td>
-    	<td>93.5</td>
+    	<td> 93.5</td>
     	<td> 77.0</td>
     	<td> </td>
     	<td> </td>
@@ -1846,6 +1860,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+<tr> 
+    	<td>MMSTC</td>
+    	<td>TIP'2024</td>
+	<td> </td>
+    	<td>83.9</td>
+    	<td> </td>
+    	<td>67.7</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
     </tr>
  <tr> 		
     	<td> MIGTD</td>
