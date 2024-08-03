@@ -70,6 +70,34 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>CKD</td>
+    	<td>ACMMM'2024</td>
+	<td>96.4/4090 </td>
+    	<td>92.5</td>
+    	<td>75.1</td>
+    	<td>88.4</td>
+    	<td>65.2</td>
+    	<td>90.0</td>
+    	<td> 67.4</td>
+	<td> 73.2</td>
+       	<td> 69.4</td>
+    	<td> 58.1</td>
+    </tr>
+<tr> 
+    	<td>IIMF</td>
+    	<td>ACMMM'2024</td>
+	<td> </td>
+    	<td></td>
+    	<td> </td>
+    	<td>85.6</td>
+    	<td>62.4</td>
+    	<td>86.8</td>
+    	<td> 64.4</td>
+	<td> 72.4</td>
+       	<td> 68.4</td>
+    	<td> 58.1</td>
+    </tr>
+<tr> 
     	<td>MMSTC</td>
     	<td>TIP'2024</td>
 	<td> </td>
@@ -1874,6 +1902,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+<tr> 
+    	<td>CKD</td>
+    	<td>ACMMM'2024</td>
+	<td>96.4/4090</td>
+    	<td>90.2</td>
+    	<td> </td>
+    	<td>77.8</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
     </tr>
 <tr> 
     	<td>MMSTC</td>
