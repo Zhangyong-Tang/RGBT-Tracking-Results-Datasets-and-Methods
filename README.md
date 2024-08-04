@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>TGTrack</td>
+    	<td>TCSVT'2024</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>87.2</td>
+    	<td>64.1</td>
+    	<td>89.3</td>
+    	<td>67.0</td>
+	<td>73.2</td>
+       	<td>69.1</td>
+    	<td>57.9</td>
+    </tr>
+<tr> 
     	<td>CKD</td>
     	<td>ACMMM'2024</td>
 	<td>96.4/4090 </td>
