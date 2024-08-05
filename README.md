@@ -70,6 +70,34 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>VLCTrack</td>
+    	<td>NeuroComputing'2024</td>
+	<td>90.9/RTX4090</td>
+    	<td>90.1</td>
+    	<td>76.8</td>
+    	<td></td>
+    	<td></td>
+    	<td>81.1</td>
+    	<td>59.1</td>
+	<td>56.4</td>
+       	<td>51.8</td>
+    	<td>43.7</td>
+    </tr>
+<tr> 
+    	<td>MixRGBX</td>
+    	<td>NeuroComputing'2024</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>85.3</td>
+    	<td>63.2</td>
+	<td>67.2</td>
+       	<td></td>
+    	<td>53.2</td>
+    </tr>
+<tr> 
     	<td>TGTrack</td>
     	<td>TCSVT'2024</td>
 	<td></td>
