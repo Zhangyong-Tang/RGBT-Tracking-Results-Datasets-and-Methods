@@ -72,7 +72,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 <tr> 
     	<td>CAFormer</td>
     	<td>ARxiv'2024</td>
-	<td>83.6/RTX4090</td>
+	<td>83.6/RTX3080Ti</td>
     	<td>91.8</td>
     	<td>76.9</td>
     	<td>85.6</td>
@@ -1962,7 +1962,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 <tr> 
     	<td>CAFormer</td>
     	<td>Arxiv'2024</td>
-	<td>83.6/4090</td>
+	<td>83.6/RTX3080Ti</td>
     	<td>88.6</td>
     	<td> </td>
     	<td>76.2</td>
