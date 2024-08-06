@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 <tr> 
+    	<td>CAFormer</td>
+    	<td>ARxiv'2024</td>
+	<td>83.6/RTX4090</td>
+    	<td>91.8</td>
+    	<td>76.9</td>
+    	<td>85.6</td>
+    	<td>63.2</td>
+    	<td>88.3</td>
+    	<td>66.4</td>
+	<td>70.0</td>
+       	<td>66.1</td>
+    	<td>55.6</td>
+    </tr>
+<tr> 
     	<td>VLCTrack</td>
     	<td>NeuroComputing'2024</td>
 	<td>90.9/RTX4090</td>
@@ -1944,6 +1958,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+<tr> 
+    	<td>CAFormer</td>
+    	<td>Arxiv'2024</td>
+	<td>83.6/4090</td>
+    	<td>88.6</td>
+    	<td> </td>
+    	<td>76.2</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+	<td></td>
+       	<td></td>
+    	<td></td>
     </tr>
 <tr> 
     	<td>CKD</td>
