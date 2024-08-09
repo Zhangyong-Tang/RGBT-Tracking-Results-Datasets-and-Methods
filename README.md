@@ -69,6 +69,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> NPR</td>
     	<td> SR</td>
     </tr>
+	<tr> 
+    	<td>AMAtrack</td>
+    	<td>TIM'2024</td>
+	<td>68.3/RTX3070</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>82.6</td>
+    	<td>61.2</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
 <tr> 
     	<td>CAFormer</td>
     	<td>ARxiv'2024</td>
