@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>MambaVT</td>
+    	<td>ARxiv'2024</td>
+	<td>31.1/A100</td>
+    	<td>95.2</td>
+    	<td>78.6</td>
+    	<td>88.5</td>
+    	<td>64.4</td>
+    	<td>90.7</td>
+    	<td>67.5</td>
+	<td>72.7</td>
+       	<td>69.0</td>
+    	<td>57.5</td>
+    </tr>
+	<tr> 
     	<td>AMAtrack</td>
     	<td>TIM'2024</td>
 	<td>68.3/RTX3070</td>
