@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>AINet</td>
+    	<td>arxiv'2024</td>
+	<td>37.5/4090</td>
+    	<td></td>
+    	<td></td>
+    	<td>87.5</td>
+    	<td>64.8</td>
+    	<td>89.2</td>
+    	<td>67.3</td>
+	<td>74.2</td>
+       	<td>70.1</td>
+    	<td>59.1</td>
+    </tr>
+	<tr> 
     	<td>MambaVT</td>
     	<td>ARxiv'2024</td>
 	<td>31.1/A100</td>
@@ -1986,6 +2000,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+	<tr> 
+    	<td>AINet</td>
+    	<td>arxiv'2024</td>
+	<td>37.5/4090</td>
+	<td> 88.0</td>
+    	<td> </td>
+    	<td> 75.3</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 	
     </tr>
 <tr> 
     	<td>CAFormer</td>
