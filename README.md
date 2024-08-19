@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>SiamMGT</td>
+    	<td>The Journal of Supercomputing'2024</td>
+	<td></td>
+    	<td>90.9</td>
+    	<td>73.9</td>
+    	<td></td>
+    	<td></td>
+    	<td>81.1</td>
+    	<td>60.4</td>
+	<td>54.8</td>
+       	<td></td>
+    	<td>41.6</td>
+    </tr>
+	<tr> 
     	<td>AINet</td>
     	<td>arxiv'2024</td>
 	<td>37.5/4090</td>
