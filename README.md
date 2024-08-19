@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>SiamSCR</td>
+    	<td>IEEE Sensor Journal'2024</td>
+	<td>37.2</td>
+    	<td>91.7</td>
+    	<td>73.7</td>
+    	<td></td>
+    	<td></td>
+    	<td>79.1</td>
+    	<td>57.5</td>
+	<td>52.2</td>
+       	<td></td>
+    	<td>40.1</td>
+    </tr>
+	<tr> 
     	<td>SiamMGT</td>
     	<td>The Journal of Supercomputing'2024</td>
 	<td></td>
