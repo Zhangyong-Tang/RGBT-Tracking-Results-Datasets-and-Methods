@@ -658,6 +658,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> </td>
     </tr>
 <tr> 
+    	<td> JTPMA</td>
+    	<td>INFFUS'2023</td>
+	<td> 15</td>
+    	<td>90.7</td>
+    	<td>75.1</td>
+    	<td> </td>
+    	<td> </td>
+    	<td> 80.3</td>
+    	<td> 56.2</td>
+    	<td> 53.8</td>
+    	<td> 48.2</td>
+    	<td> 37.3</td>
+    </tr>
+<tr> 
     	<td> FDAFT</td>
     	<td>PRCV'2023</td>
 	<td> </td>
