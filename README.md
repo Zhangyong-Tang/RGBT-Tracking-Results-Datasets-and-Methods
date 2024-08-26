@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>MFATrack</td>
+    	<td>PR'2024</td>
+	<td>25/3090</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>81.7</td>
+    	<td>57.5</td>
+	<td>63.3</td>
+       	<td></td>
+    	<td>49.8</td>
+    </tr>
+	<tr> 
     	<td>SiamSCR</td>
     	<td>IEEE Sensor Journal'2024</td>
 	<td>37.2</td>
