@@ -756,6 +756,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 0.432</td>
     </tr>
        <tr> 
+    	<td> EANet</td>
+    	<td>ICMV'2023</td>
+	<td> </td>
+    	<td></td>
+    	<td> </td>
+    	<td> -</td>
+    	<td> -</td>
+    	<td> 83.5</td>
+    	<td> 58.4</td>
+    	<td> 50.6</td>
+    	<td> -</td>
+    	<td> 36.7</td>
+    </tr>
+       <tr> 
     	<td> SiamTDR</td>
     	<td>TICPS'2023</td>
 	<td> 127/RTX3090</td>
