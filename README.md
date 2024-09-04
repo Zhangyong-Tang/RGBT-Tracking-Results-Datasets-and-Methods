@@ -84,6 +84,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>49.8</td>
     </tr>
 	<tr> 
+    	<td>CFBT</td>
+    	<td>Arxiv'2024</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>87.7</td>
+    	<td>63.0</td>
+    	<td>89.9</td>
+    	<td>65.9</td>
+	<td>73.2</td>
+       	<td>69.5</td>
+    	<td>58.4</td>
+    </tr>
+	<tr> 
     	<td>SiamSCR</td>
     	<td>IEEE Sensor Journal'2024</td>
 	<td>37.2</td>
