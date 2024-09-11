@@ -588,7 +588,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     </tr>
 	 <tr> 
-    	<td> SAFT</td>
+    	<td> ASFNet</td>
     	<td>2024</td>
 	<td>-</td>
     	<td>91.7</td>
