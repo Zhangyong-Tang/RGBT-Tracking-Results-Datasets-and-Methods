@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>STMT</td>
+    	<td>Arxiv'2024</td>
+	<td>39.1/3090Ti</td>
+    	<td></td>
+    	<td></td>
+    	<td>83.0</td>
+    	<td>59.5</td>
+    	<td>86.5</td>
+    	<td>63.8</td>
+	<td>67.4</td>
+       	<td>63.4</td>
+    	<td>53.7</td>
+    </tr>
+	<tr> 
     	<td>MFATrack</td>
     	<td>PR'2024</td>
 	<td>25/3090</td>
