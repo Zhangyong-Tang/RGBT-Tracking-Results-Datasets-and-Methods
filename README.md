@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>S2OTformer</td>
+    	<td>ACMTOMM'2024</td>
+	<td>40/3090Ti</td>
+    	<td>83.1</td>
+    	<td>70.2</td>
+    	<td></td>
+    	<td></td>
+    	<td>68.4</td>
+    	<td>47.7</td>
+	<td>39.8</td>
+       	<td></td>
+    	<td>29.5</td>
+    </tr>
+	<tr> 
     	<td>STMT</td>
     	<td>Arxiv'2024</td>
 	<td>39.1/3090Ti</td>
@@ -2099,6 +2113,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> A</td>
     	<td> EAO</td> 	
     </tr>
+	<tr> 
+    	<td>S2OTFormer</td>
+    	<td>ACMTOMM'2024</td>
+	<td>40/3090Ti</td>
+	<td>56.7</td>
+    	<td> </td>
+    	<td> 44.5</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 	
+    </tr>	
 	<tr> 
     	<td>AINet</td>
     	<td>arxiv'2024</td>
