@@ -633,8 +633,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> IPL</td>
     	<td>Arxiv'2024</td>
 	<td>-</td>
-    	<td>91.7</td>
-    	<td> 73.9</td>
+    	<td></td>
+    	<td> </td>
     	<td> -</td>
     	<td> -</td>
     	<td> 88.3</td>
