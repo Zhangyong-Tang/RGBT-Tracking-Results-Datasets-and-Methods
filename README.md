@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>TBSI-E</td>
+    	<td>TPAMI'2024</td>
+	<td>58.3/3080Ti</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>91.0</td>
+    	<td>67.0</td>
+	<td>75.5</td>
+       	<td>71.5</td>
+    	<td>59.6</td>
+    </tr>
+	<tr> 
     	<td>S2OTformer</td>
     	<td>ACMTOMM'2024</td>
 	<td>40/3090Ti</td>
@@ -2112,6 +2126,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+	<tr> 
+    	<td>TBSI-E</td>
+    	<td>TPAMI'2024</td>
+	<td>58.3/3080Ti</td>
+	<td>88.1</td>
+    	<td> </td>
+    	<td>73.2</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 	
     </tr>
 	<tr> 
     	<td>S2OTFormer</td>
