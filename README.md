@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>FHAT</td>
+    	<td>IVC'2024</td>
+	<td>44.8/4090</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>88.2</td>
+    	<td>65.4</td>
+	<td>71.5</td>
+       	<td>67.4</td>
+    	<td>57.1</td>
+    </tr>
+	<tr> 
     	<td>TBSI-E</td>
     	<td>TPAMI'2024</td>
 	<td>58.3/3080Ti</td>
