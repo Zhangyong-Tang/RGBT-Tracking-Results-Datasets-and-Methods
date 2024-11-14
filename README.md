@@ -70,6 +70,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>EMTrack</td>
+    	<td>TSCVT'2024</td>
+	<td>29.1/CPU</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>81.8</td>
+    	<td>60.1</td>
+	<td>65.9</td>
+       	<td></td>
+    	<td>53.3</td>
+    </tr>
+	<tr> 
     	<td>FHAT</td>
     	<td>IVC'2024</td>
 	<td>44.8/4090</td>
@@ -2140,6 +2154,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+	<tr> 
+    	<td>EMTrack</td>
+    	<td>TSCVT'2024</td>
+	<td>29.1/CPU</td>
+	<td>71.3</td>
+    	<td> </td>
+    	<td>49.5</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 
     </tr>
 	<tr> 
     	<td>TBSI-E</td>
