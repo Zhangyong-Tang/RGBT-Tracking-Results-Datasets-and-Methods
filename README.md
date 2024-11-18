@@ -1039,7 +1039,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MACFT</td>
     	<td>Sensors'2023</td>
 	<td>31</td>
-    	<td>-/td>
+    	<td>-</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1053,7 +1053,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> LCMIT</td>
     	<td>SCIENCE CHINA Information Sciences'2023</td>
 	<td></td>
-    	<td>93.9/td>
+    	<td>93.9</td>
     	<td> 74.1</td>
     	<td> -</td>
     	<td> -</td>
@@ -1067,7 +1067,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MMMPT</td>
     	<td>IPT'2023</td>
 	<td></td>
-    	<td>90.3/td>
+    	<td>90.3</td>
     	<td> 73.6</td>
     	<td> -</td>
     	<td> -</td>
@@ -1081,7 +1081,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MPDMT</td>
     	<td>ICPR'2023</td>
 	<td>42</td>
-    	<td>90.6/td>
+    	<td>90.6</td>
     	<td> 75.7</td>
     	<td> -</td>
     	<td> -</td>
@@ -1095,7 +1095,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> FSBNet</td>
     	<td>Neural Computing and Applications'2023</td>
 	<td>27</td>
-    	<td>91.3/td>
+    	<td>91.3</td>
     	<td> 72.1</td>
     	<td> -</td>
     	<td> -</td>
@@ -1109,7 +1109,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MTNet</td>
     	<td>ICME'2023</td>
 	<td>-</td>
-    	<td>93.5/td>
+    	<td>93.5</td>
     	<td>76.0</td>
     	<td> -</td>
     	<td> -</td>
@@ -1123,7 +1123,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SiamMFF</td>
     	<td>CACML'2023</td>
 	<td>-</td>
-    	<td>90.5/td>
+    	<td>90.5</td>
     	<td>73.6</td>
     	<td> -</td>
     	<td> -</td>
@@ -1137,7 +1137,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> LSAR</td>
     	<td>TCSVT'2023</td>
 	<td>-</td>
-    	<td>85.5/td>
+    	<td>85.5</td>
     	<td>70.3</td>
     	<td>77.5</td>
     	<td>54.9</td>
@@ -1151,7 +1151,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> CSMMA</td>
     	<td>Sensors Journal'2023</td>
 	<td>20</td>
-    	<td>89.5/td>
+    	<td>89.5</td>
     	<td>73.0</td>
     	<td>-</td>
     	<td>-</td>
@@ -1165,7 +1165,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MPLT</td>
     	<td>Arxiv'2023</td>
 	<td></td>
-    	<td>-/td>
+    	<td>-</td>
     	<td>-</td>
     	<td>86.2</td>
     	<td>63.0</td>
