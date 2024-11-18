@@ -773,15 +773,15 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DFAT</td>
     	<td>INFFUS'2023</td>
 	<td> 22/RTX2080Ti</td>
-    	<td>0.893</td>
-    	<td> 0.723</td>
+    	<td>89.3</td>
+    	<td> 72.3</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.758</td>
-    	<td> 0.552</td>
+    	<td> 75.8</td>
+    	<td> 55.2</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.336</td>
+    	<td> 33.6</td>
     </tr>
        <tr> 
     	<td> ViPT</td>
@@ -791,25 +791,25 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.835</td>
-    	<td> 0.617</td>
-    	<td> 0.651</td>
+    	<td> 83.5</td>
+    	<td> 61.7</td>
+    	<td> 65.1</td>
     	<td> -</td>
-    	<td> 0.525</td>
+    	<td> 52.5</td>
     </tr>
        <tr> 
     	<td>CMD</td>
     	<td>CVPR'2023</td>
 	<td> 30/RTX1080Ti</td>
-    	<td>0.892</td>
-    	<td> 0.734</td>
+    	<td>89.2</td>
+    	<td> 73.4</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.824</td>
-    	<td> 0.584</td>
-    	<td> 0.590</td>
-    	<td> 0.546</td>
-    	<td> 0.464</td>
+    	<td> 82.4</td>
+    	<td> 58.4</td>
+    	<td> 59.0</td>
+    	<td> 54.6</td>
+    	<td> 46.4</td>
     </tr>
        <tr> 
     	<td> TBSI</td>
@@ -817,13 +817,13 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 36/RTX3080Ti</td>
     	<td>-</td>
     	<td> -</td>
-    	<td> 0.853</td>
-    	<td> 0.625</td>
-    	<td> 0.871</td>
-    	<td> 0.637</td>
-    	<td> 0.692</td>
-    	<td> 0.657</td>
-    	<td> 0.556</td>
+    	<td> 85.3</td>
+    	<td> 62.5</td>
+    	<td> 87.1</td>
+    	<td> 63.7</td>
+    	<td> 69.2</td>
+    	<td> 65.7</td>
+    	<td> 55.6</td>
     </tr>
        <tr> 
     	<td>BD2Track</td>
@@ -835,9 +835,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.560</td>
+    	<td> 56.0</td>
     	<td> -</td>
-    	<td> 0.432</td>
+    	<td> 43.2</td>
     </tr>
        <tr> 
     	<td> EANet</td>
@@ -1403,24 +1403,24 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> APFNet</td>
     	<td>AAAI'2022</td>
 	<td> -</td>
-    	<td>0.905</td>
-    	<td> 0.739</td>
+    	<td>90.5</td>
+    	<td> 73.9</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.827</td>
-    	<td> 0.579</td>
-    	<td> 0.500</td>
+    	<td> 82.7</td>
+    	<td> 57.9</td>
+    	<td> 50.0</td>
     	<td> -</td>
-    	<td> 0.362</td>
+    	<td> 36.2</td>
     </tr>
     <tr> 
     	<td> TAAT</td>
     	<td>arxiv'2022</td>
 	<td> 39/RTX2080Ti</td>
-    	<td>0.858</td>
-    	<td> 0.696</td>
-    	<td> 0.710</td>
-    	<td> 0.486</td>
+    	<td>85.8</td>
+    	<td> 69.6</td>
+    	<td> 71.0</td>
+    	<td> 48.6</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1431,27 +1431,27 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DMCNet</td>
     	<td>TNNLS'2022</td>
 	<td> 2.38/RTX2080Ti</td>
-    	<td>0.909</td>
-    	<td> 0.733</td>
-    	<td> 0.797</td>
-    	<td> 0.555</td>
-    	<td> 0.839</td>
-    	<td> 0.593</td>
-    	<td> 0.490</td>
-    	<td> 0.431</td>
-    	<td> 0.355</td>
+    	<td>90.9</td>
+    	<td> 73.3</td>
+    	<td> 79.7</td>
+    	<td> 55.5</td>
+    	<td> 83.9</td>
+    	<td> 59.3</td>
+    	<td> 49.0</td>
+    	<td> 43.1</td>
+    	<td> 35.5</td>
     </tr>
     </tr>
  	<tr> 
     	<td> MFGNet</td>
     	<td>TMM'2022</td>
 	<td> 3.37/Tesla P100</td>
-    	<td>0.889</td>
-    	<td> 0.707</td>
-    	<td> 0.749</td>
-    	<td> 0.494</td>
-    	<td> 0.783</td>
-    	<td> 0.535</td>
+    	<td>88.9</td>
+    	<td> 70.7</td>
+    	<td> 74.9</td>
+    	<td> 49.4</td>
+    	<td> 78.3</td>
+    	<td> 53.5</td>
     	<td> </td>
     	<td> </td>
     	<td> </td>
@@ -1460,15 +1460,15 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> HMFT</td>
     	<td>CVPR'2022</td>
 	<td> 30/GTXTitan</td>
-    	<td>0.912</td>
-    	<td> 0.749</td>
-    	<td> 0.786</td>
-    	<td> 0.535</td>
-    	<td> 0.788</td>
-    	<td> 0.568</td>
-    	<td> 0.460</td>
-    	<td> 0.413</td>
-    	<td> 0.326</td>
+    	<td>91.2</td>
+    	<td> 74.9</td>
+    	<td> 78.6</td>
+    	<td> 53.5</td>
+    	<td> 78.8</td>
+    	<td> 56.8</td>
+    	<td> 46.0</td>
+    	<td> 41.3</td>
+    	<td> 32.6</td>
     </tr>
        <tr> 
     	<td> ProTrack </td>
@@ -1768,12 +1768,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>M^5L</td>
     	<td>TIP'2021</td>
 	<td> -</td>
-    	<td>0.896</td>
-    	<td> 0.710</td>
+    	<td>89.6</td>
+    	<td> 71.0</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.795</td>
-    	<td> 0.542</td>
+    	<td> 79.5</td>
+    	<td> 54.2</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1782,12 +1782,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SiamCDA</td>
     	<td>TCSVT'2021</td>
 		<td> -</td>
-    	<td>0.877</td>
-    	<td> 0.732</td>
+    	<td>87.7</td>
+    	<td> 73.2</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.760</td>
-    	<td> 0.569</td>
+    	<td> 76.0</td>
+    	<td> 56.9</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1800,8 +1800,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> </td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.648</td>
-    	<td> 0.470</td>
+    	<td> 64.8</td>
+    	<td> 47.0</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1866,26 +1866,26 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> MaCNet</td>
     	<td> Sensors'2020</td>
 		<td> -</td>
-    	<td>0.880</td>
-    	<td> 0.714</td>
+    	<td>88.0</td>
+    	<td> 71.4</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.790</td>
-    	<td> 0.554</td>
-    	<td> 0.482</td>
-    	<td> 0.420</td>
-    	<td> 0.350</td>
+    	<td> 79.0</td>
+    	<td> 55.4</td>
+    	<td> 48.2</td>
+    	<td> 42.0</td>
+    	<td> 35.0</td>
     </tr>
    	<tr> 
     	<td>CMPP</td>
     	<td>CVPR'2020</td>
 	<td> 1.3/RTX2080Ti</td>
-    	<td>0.926</td>
-    	<td> 0.738</td>
+    	<td>92.6</td>
+    	<td> 73.8</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.823</td>
-    	<td> 0.575</td>
+    	<td> 82.3</td>
+    	<td> 57.5</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1894,15 +1894,15 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>CAT</td>
     	<td>ECCV'2020</td>
 	<td> -</td>
-    	<td>0.889</td>
-    	<td> 0.717</td>
-    	<td> 0.792</td>
-    	<td> 0.533</td>
-    	<td> 0.804</td>
-    	<td> 0.561</td>
-    	<td> 0.450</td>
-    	<td> 0.395</td>
-    	<td> 0.314</td>
+    	<td>88.9</td>
+    	<td> 71.7</td>
+    	<td> 79.2</td>
+    	<td> 53.3</td>
+    	<td> 80.4</td>
+    	<td> 56.1</td>
+    	<td> 45.0</td>
+    	<td> 39.5</td>
+    	<td> 31.4</td>
     </tr>
     	<tr> 
     	<td> DSiamMFT</td>
@@ -1910,8 +1910,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 14.7/RTX1080Ti</td>
     	<td>-</td>
     	<td> -</td>
-    	<td> 0.642</td>
-    	<td> 0.432</td>
+    	<td> 64.2</td>
+    	<td> 43.2</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -1952,66 +1952,66 @@ This repository is started on 02/07/2023, and will keep on updating.**
 	<td> 28/GTXTitan</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.786</td>
-    	<td> 0.555</td>
-    	<td> 0.785</td>
-    	<td> 0.559</td>
-    	<td> 0.448</td>
-    	<td> 0.395</td>
-    	<td> 0.343</td>
+    	<td> 78.6</td>
+    	<td> 55.5</td>
+    	<td> 78.5</td>
+    	<td> 55.9</td>
+    	<td> 44.8</td>
+    	<td> 39.5</td>
+    	<td> 34.3</td>
     </tr>
     <tr> 
     	<td> MANet </td>
     	<td> ICCVW'2019</td>
 	<td> -</td>
-    	<td> 0.894</td>
-    	<td> 0.724</td>
+    	<td> 89.4</td>
+    	<td> 72.4</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.777</td>
-    	<td> 0.539</td>
-    	<td> 0.457</td>
+    	<td> 77.7</td>
+    	<td> 53.9</td>
+    	<td> 45.7</td>
     	<td> -</td>
-    	<td> 0.330</td>
+    	<td> 33.0</td>
     </tr>
       <tr> 
     	<td>DAPNet</td>
     	<td> ACM MM'2019</td>
 	<td> -</td>
-    	<td> 0.882</td>
-    	<td> 0.707</td>
+    	<td> 88.2</td>
+    	<td> 70.7</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.766</td>
-    	<td> 0.537</td>
-    	<td> 0.431</td>
+    	<td> 76.6</td>
+    	<td> 53.7</td>
+    	<td> 43.1</td>
     	<td> -</td>
-    	<td> 0.314</td>
+    	<td> 31.4</td>
     </tr>
        <tr> 
     	<td> DAFNet</td>
     	<td> ICCVW'2019</td>
 	<td> -</td>
-    	<td> 0.891</td>
-    	<td> 0.712</td>
+    	<td> 89.1</td>
+    	<td> 71.2</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.796</td>
-    	<td> 0.544</td>
-    	<td> 0.448</td>
-    	<td> 0.390</td>
-    	<td> 0.311</td>
+    	<td> 79.6</td>
+    	<td> 54.4</td>
+    	<td> 44.8</td>
+    	<td> 39.0</td>
+    	<td> 31.1</td>
     </tr>
             <tr> 
     	<td>SiamFT</td>
     	<td> IEEE Access'2019</td>
 	<td> 30/RTX1080Ti</td>
-    	<td>0.826</td>
-    	<td> 0.700</td>
+    	<td>82.6</td>
+    	<td> 70.0</td>
     	<td> -</td>
     	<td> -</td>
-    	<td> 0.688</td>
-    	<td> 0.486</td>
+    	<td> 68.8</td>
+    	<td> 48.6</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2038,8 +2038,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> 65.5</td>
     	<td> 71.1</td>
     	<td> 46.8</td>
-    	<td> 0.688</td>
-    	<td> 0.486</td>
+    	<td> 68.8</td>
+    	<td> 48.6</td>
     	<td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2413,12 +2413,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	 <td> -</td>
-    	<td> 0.670</td>
-       	<td> 0.756</td>
-    	<td> 0.413</td>
-    	<td>0.672</td>
-        <td> 0.779</td>
-    	<td> 0.390</td>
+    	<td> 67.0</td>
+       	<td> 75.6</td>
+    	<td> 41.3</td>
+    	<td>67.2</td>
+        <td>77.9</td>
+    	<td> 39.0</td>
     </tr>
 <tr> 
     	<td> DTAT</td>
@@ -2606,12 +2606,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> TAAT</td>
     	<td>arxiv'2022</td>
 	<td> 39/RTX2080Ti</td>
-        <td> 0.696</td>
+        <td> 69.6</td>
     	<td> -</td>
-    	<td> 0.560</td>
-       	<td> 0.643</td>
-    	<td> 0.735</td>
-    	<td>0.416</td>
+    	<td> 56.0</td>
+       	<td> 64.3</td>
+    	<td> 73.5</td>
+    	<td>41.6</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2620,12 +2620,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> HMFT</td>
     	<td>CVPR'2022</td>
 	<td> 30/GTXTitan</td>
-        <td> 0.758</td>
+        <td> 75.8</td>
     	<td> -</td>
-    	<td> 0.627</td>
-       	<td> 0.553</td>
-    	<td> 0.760</td>
-    	<td>0.347</td>
+    	<td> 62.7</td>
+       	<td> 55.3</td>
+    	<td> 76.0</td>
+    	<td>34.7</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2651,12 +2651,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
-       	<td> 0.665</td>
-    	<td> 0.821</td>
-    	<td>0.483</td>
-        <td> 0.662</td>
-    	<td> 0.818</td>
-    	<td> 0.420</td>
+       	<td> 66.5</td>
+    	<td> 82.1</td>
+    	<td>48.3</td>
+        <td> 66.2</td>
+    	<td> 81.8</td>
+    	<td> 42.0</td>
     </tr>
       	<tr> 
     	<td> MANet++</td>
@@ -2665,9 +2665,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
-       	<td> 0.509</td>
-    	<td> 0.538</td>
-    	<td>0.272</td>
+       	<td> 50.9</td>
+    	<td> 53.8</td>
+    	<td>27.2</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2679,9 +2679,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
-       	<td> 0.472</td>
-    	<td> 0.508</td>
-    	<td>0.247</td>
+       	<td> 47.2</td>
+    	<td> 50.8</td>
+    	<td>24.7</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2690,12 +2690,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> ADRNet</td>
     	<td>IJCV'2021</td>
 	<td> 25/RTX2080Ti</td>
-        <td> 0.622</td>
+        <td> 62.2</td>
     	<td> -</td>
-    	<td> 0.466</td>
-       	<td> 0.622</td>
-    	<td> 0.766</td>
-    	<td>0.396</td>
+    	<td> 46.6</td>
+       	<td> 62.2</td>
+    	<td> 76.6</td>
+    	<td>39.6</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2707,9 +2707,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
-       	<td> 0.682</td>
-    	<td> 0.757</td>
-    	<td>0.424</td>
+       	<td> 68.2</td>
+    	<td> 75.7</td>
+    	<td>42.4</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2721,9 +2721,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
-       	<td> 0.545</td>
-    	<td> 0.591</td>
-    	<td>0.305</td>
+       	<td> 54.5</td>
+    	<td> 59.1</td>
+    	<td>30.5</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2732,26 +2732,26 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> mfDiMP</td>
     	<td> ICCVW'2019</td>
 	<td> 28/GTXTitan</td>
-        <td> 0.673</td>
+        <td> 67.3</td>
     	<td> -</td>
-    	<td> 0.554</td>
-       	<td> 0.602</td>
-    	<td> 0.804</td>
-    	<td> 0.388</td>
-        <td> 0.638</td>
-    	<td> 0.793</td>
-    	<td> 0.380</td>
+    	<td> 55.4</td>
+       	<td> 60.2</td>
+    	<td> 80.4</td>
+    	<td> 38.8</td>
+        <td> 63.8</td>
+    	<td> 79.3</td>
+    	<td> 38.0</td>
     </tr>
     <tr> 
     	<td> MANet </td>
     	<td> ICCVW'2019</td>
 	<td> -</td>
-        <td> 0.455</td>
-    	<td> 0.383</td>
-    	<td> 0.326</td>
-       	<td> 0.582</td>
-    	<td> 0.701</td>
-    	<td> 0.346</td>
+        <td> 45.5</td>
+    	<td> 38.3</td>
+    	<td> 32.6</td>
+       	<td> 58.2</td>
+    	<td> 70.1</td>
+    	<td> 34.6</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2760,9 +2760,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>DAPNet</td>
     	<td> ACM MM'2019</td>
 	<td> -</td>
-        <td> 0.431</td>
-    	<td> 0.383</td>
-    	<td> 0.314</td>
+        <td> 43.1</td>
+    	<td> 38.3</td>
+    	<td> 31.4</td>
        	<td> -</td>
     	<td> -</td>
     	<td>-</td>
@@ -2774,9 +2774,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> DAFNet</td>
     	<td> ICCVW'2019</td>
 	<td> -</td>
-        <td> 0.620</td>
+        <td> 62.0</td>
     	<td> -</td>
-    	<td> 0.458</td>
+    	<td> 45.8</td>
        	<td> -</td>
     	<td> -</td>
     	<td>-</td>
@@ -2788,12 +2788,12 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> FSRPN</td>
     	<td> 2019</td>
 	<td> -</td>
-        <td> 0.653</td>
+        <td> 65.3</td>
     	<td> -</td>
-    	<td> 0.544</td>
+    	<td> 54.4</td>
        	<td> -</td>
     	<td> -</td>
-    	<td>0.355</td>
+    	<td>35.5</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
@@ -2805,9 +2805,9 @@ This repository is started on 02/07/2023, and will keep on updating.**
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
-       	<td> 0.630</td>
-    	<td> 0.639</td>
-    	<td>0.310</td>
+       	<td> 63.0</td>
+    	<td> 63.9</td>
+    	<td>31.0</td>
         <td> -</td>
     	<td> -</td>
     	<td> -</td>
