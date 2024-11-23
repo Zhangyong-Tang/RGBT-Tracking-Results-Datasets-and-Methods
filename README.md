@@ -72,6 +72,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>FFEUMA</td>
+    	<td>NeuroComputing'2024</td>
+	<td>61.0/3090</td>
+    	<td>92.4</td>
+    	<td>77.0</td>
+    	<td></td>
+    	<td></td>
+    	<td>85.1</td>
+    	<td>62.8</td>
+	<td>70.0</td>
+       	<td>66.4</td>
+    	<td>56.0</td>
+    </tr>
+	<tr> 
     	<td>EMTrack</td>
     	<td>TSCVT'2024</td>
 	<td>29.1/CPU</td>
