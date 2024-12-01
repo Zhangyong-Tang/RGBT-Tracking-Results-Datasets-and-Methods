@@ -72,6 +72,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>TMTB</td>
+    	<td>PRICAI'2024</td>
+	<td>49.1/3090</td>
+    	<td></td>
+    	<td></td>
+    	<td>87.1</td>
+    	<td>63.9</td>
+    	<td>87.6</td>
+    	<td>64.6</td>
+	<td>70.7</td>
+       	<td></td>
+    	<td>56.6</td>
+    </tr>
+	<tr> 
     	<td>FFEUMA</td>
     	<td>NeuroComputing'2024</td>
 	<td>61.0/3090</td>
