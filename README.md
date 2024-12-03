@@ -72,6 +72,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>DuSiamIE</td>
+    	<td>Electronic'2024</td>
+	<td>40.3/NVIDIA Jetson Nano</td>
+    	<td>83.4</td>
+    	<td>66.8</td>
+    	<td></td>
+    	<td></td>
+    	<td>75.3</td>
+    	<td>56.2</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+	<tr> 
     	<td>TMTB</td>
     	<td>PRICAI'2024</td>
 	<td>49.1/3090</td>
