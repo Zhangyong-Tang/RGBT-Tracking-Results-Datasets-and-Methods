@@ -72,7 +72,21 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
-    	<td>JKAKF</td>
+    	<td>FDTrack</td>
+    	<td>IEEE Sensor Journal'2024</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>86.2</td>
+    	<td>62.5</td>
+    	<td>88.4</td>
+    	<td>65.7</td>
+	<td>73.5</td>
+       	<td>68.0</td>
+    	<td>58.2</td>
+    </tr>
+	<tr> 
+    	<td>JFAKF</td>
     	<td>InfFus'2024</td>
 	<td>25/Nvidia Jetson Xavier NX</td>
     	<td>86.2</td>
