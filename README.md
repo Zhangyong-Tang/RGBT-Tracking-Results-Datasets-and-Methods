@@ -72,6 +72,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>MCSSFANet</td>
+    	<td>Optics Communications'2024</td>
+	<td>37/3090GPU</td>
+    	<td></td>
+    	<td></td>
+    	<td>92.3</td>
+    	<td>71.8</td>
+    	<td>94.3</td>
+    	<td>73.2</td>
+	<td>70.5</td>
+       	<td>66.5</td>
+    	<td>55.4</td>
+    </tr>
+	<tr> 
     	<td>FDTrack</td>
     	<td>IEEE Sensor Journal'2024</td>
 	<td></td>
@@ -2226,6 +2240,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+	<tr> 
+    	<td>MCSSFANet</td>
+    	<td>MCSSAFNet'2024</td>
+	<td>37/3090GPU</td>
+	<td>83.6</td>
+    	<td> </td>
+    	<td>75.3</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 
     </tr>
 	<tr> 
     	<td>EMTrack</td>
