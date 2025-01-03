@@ -71,6 +71,76 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> NPR</td>
     	<td> SR</td>
     </tr>
+ 	<tr> 
+    	<td>SUTrack</td>
+    	<td>AAAI'2025</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>93.7</td>
+    	<td>70.3</td>
+	<td>76.9</td>
+       	<td></td>
+    	<td>61.9</td>
+    </tr>
+ 	<tr> 
+    	<td>FcFNet</td>
+    	<td>JSTARS'2025</td>
+	<td></td>
+    	<td>97.4</td>
+    	<td>70.5</td>
+    	<td></td>
+    	<td></td>
+    	<td>79.6</td>
+    	<td>55.9</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+	<tr> 
+    	<td>SiamTFA</td>
+    	<td>TITS'2024</td>
+	<td>37/3090Ti</td>
+    	<td>90.5</td>
+    	<td>72.8</td>
+    	<td>79.7</td>
+    	<td>56.3</td>
+    	<td>82.2</td>
+    	<td>59.2</td>
+	<td>62.5</td>
+       	<td></td>
+    	<td>48.1</td>
+    </tr>
+	<tr> 
+    	<td>FADSiamNet</td>
+    	<td>IJMLC'2024</td>
+	<td>32/3090</td>
+    	<td>90.5</td>
+    	<td>72.8</td>
+    	<td>76.7</td>
+    	<td>53.6</td>
+    	<td>78.7</td>
+    	<td>56.8</td>
+	<td>71.1</td>
+       	<td>66.6</td>
+    	<td>55.9</td>
+    </tr>
+	<tr> 
+    	<td>DDFNet</td>
+    	<td>Arxiv'2024</td>
+	<td>16/</td>
+    	<td>91.6</td>
+    	<td>76.3</td>
+    	<td>87.7</td>
+    	<td>63.4</td>
+    	<td>90.0</td>
+    	<td>66.9</td>
+	<td>71.1</td>
+       	<td>66.6</td>
+    	<td>55.9</td>
+    </tr>
 	<tr> 
     	<td>MCSSFANet</td>
     	<td>Optics Communications'2024</td>
@@ -2240,6 +2310,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+	<tr> 
+    	<td>SiamTFA</td>
+    	<td>TITS'2024</td>
+	<td>37/3090Ti</td>
+	<td>82.1</td>
+    	<td> </td>
+    	<td>67.9</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 
     </tr>
 	<tr> 
     	<td>MCSSFANet</td>
