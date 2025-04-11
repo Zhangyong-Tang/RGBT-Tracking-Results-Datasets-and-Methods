@@ -78,6 +78,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> NPR</td>
     	<td> SR</td>
     </tr>
+	<tr> 
+    	<td>STTrack</td>
+    	<td>AAAI'2025</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>89.8</td>
+    	<td>66.7</td>
+	<td>76.0</td>
+       	<td></td>
+    	<td>60.3</td>
+    </tr>
  	<tr> 
     	<td>SUTrack</td>
     	<td>AAAI'2025</td>
