@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>TUFNet</td>
+    	<td>KBS'2025</td>
+	<td>27/</td>
+    	<td>93.8</td>
+    	<td>76.4</td>
+    	<td>86.7</td>
+    	<td>61.9</td>
+    	<td>88.2</td>
+    	<td>64.1</td>
+	<td>70.8</td>
+       	<td>67.4</td>
+    	<td>55.7</td>
+    </tr>
+	<tr> 
     	<td>MKFTracker</td>
     	<td>KBS'2025</td>
 	<td>14/V100</td>
