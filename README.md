@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>SHT</td>
+    	<td>TIM'2025</td>
+	<td>28/4080</td>
+    	<td></td>
+    	<td></td>
+    	<td>86.4</td>
+    	<td>63.7</td>
+    	<td>88.1</td>
+    	<td>65.6</td>
+	<td>70.1</td>
+       	<td>66.1</td>
+    	<td>55.7</td>
+    </tr>
+	<tr> 
     	<td>IAMTrack</td>
     	<td>Applied Intelligence'2025</td>
 	<td>15.1/TeslaT4</td>
