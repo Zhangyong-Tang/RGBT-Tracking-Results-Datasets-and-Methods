@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>BTMTrack</td>
+    	<td>Arxiv'2025</td>
+	<td>40.65/2080ti</td>
+    	<td></td>
+    	<td></td>
+    	<td>87.5</td>
+    	<td>63.7</td>
+    	<td>88.3</td>
+    	<td>65.4</td>
+	<td>72.3</td>
+       	<td>68.5</td>
+    	<td>58.0</td>
+    </tr>
+	<tr> 
     	<td>CMDTrack</td>
     	<td>TPAMI'2025</td>
 	<td>67/2080Ti</td>
