@@ -163,6 +163,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td></td>
     </tr>
 	<tr> 
+    	<td>FADSiamNet</td>
+    	<td>IJMLC'2024</td>
+	<td>32/3090</td>
+    	<td>90.6</td>
+    	<td>72.8</td>
+    	<td>76.7</td>
+    	<td>53.6</td>
+    	<td>78.7</td>
+    	<td>56.8</td>
+	<td></td>
+       	<td></td>
+    	<td></td>
+    </tr>
+	<tr> 
     	<td>SiamTFA</td>
     	<td>TITS'2024</td>
 	<td>37/3090Ti</td>
