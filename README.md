@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>IAMTrack</td>
+    	<td>Applied Intelligence'2025</td>
+	<td>15.1/TeslaT4</td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>86.7</td>
+    	<td>64.0</td>
+	<td>69.5</td>
+       	<td>65.2</td>
+    	<td>56.1</td>
+    </tr>
+	<tr> 
     	<td>BTMTrack</td>
     	<td>Arxiv'2025</td>
 	<td>40.65/2080ti</td>
@@ -2359,6 +2373,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> R</td>
     	<td> A</td>
     	<td> EAO</td> 	
+    </tr>
+	<tr> 
+    	<td>IAMTrack</td>
+    	<td>Applied Intelligence'2025</td>
+	<td>15.1/TeslaT4</td>
+	<td>83.3</td>
+    	<td> </td>
+    	<td>71.8</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 
     </tr>
 	<tr> 
     	<td>SiamTFA</td>
