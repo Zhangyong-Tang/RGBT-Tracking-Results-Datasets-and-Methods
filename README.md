@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>APTrack</td>
+    	<td>TAI'2025</td>
+	<td>50.5/4090</td>
+    	<td>88.7</td>
+    	<td>71.4</td>
+    	<td></td>
+    	<td></td>
+    	<td>90.6</td>
+    	<td>67.2</td>
+	<td>74.1</td>
+       	<td></td>
+    	<td>58.9</td>
+    </tr>
+	<tr> 
     	<td>LightFC-X</td>
     	<td>Arxiv'2025</td>
 	<td>81/A6000</td>
