@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>MKFTracker</td>
+    	<td>KBS'2025</td>
+	<td>14/V100</td>
+    	<td>91.3</td>
+    	<td>74.7</td>
+    	<td>80.7</td>
+    	<td>58.2</td>
+    	<td>82.3</td>
+    	<td>60.1</td>
+	<td>51.4</td>
+       	<td></td>
+    	<td>45.2</td>
+    </tr>
+	<tr> 
     	<td>SHT</td>
     	<td>TIM'2025</td>
 	<td>28/4080</td>
