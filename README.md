@@ -82,8 +82,8 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td>APTrack</td>
     	<td>TAI'2025</td>
 	<td>50.5/4090</td>
-    	<td>88.7</td>
-    	<td>71.4</td>
+    	<td></td>
+    	<td></td>
     	<td></td>
     	<td></td>
     	<td>90.6</td>
