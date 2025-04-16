@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>TPF</td>
+    	<td>Arxiv'2025</td>
+	<td>59.4/4090</td>
+    	<td>94.3</td>
+    	<td>76.3</td>
+    	<td>88.0</td>
+    	<td>63.8</td>
+    	<td>89.7</td>
+    	<td>67.1</td>
+	<td>75.1</td>
+       	<td>71.3</td>
+    	<td>59.5</td>
+    </tr>
+	<tr> 
     	<td>TVTracker</td>
     	<td>KBS'2025</td>
 	<td>9.58/A100</td>
