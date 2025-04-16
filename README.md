@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>TVTracker</td>
+    	<td>KBS'2025</td>
+	<td>9.58/A100</td>
+    	<td></td>
+    	<td></td>
+    	<td>87.6</td>
+    	<td>63.7</td>
+    	<td>88.6</td>
+    	<td>64.8</td>
+	<td>72.6</td>
+       	<td>68.4</td>
+    	<td>57.5</td>
+    </tr>
+	<tr> 
     	<td>TUFNet</td>
     	<td>KBS'2025</td>
 	<td>27/</td>
@@ -2430,6 +2444,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> A</td>
     	<td> EAO</td> 	
     </tr>
+	<tr> 
+    	<td>TVTracker</td>
+    	<td>KBS'2025</td>
+	<td>9.58/A100</td>
+	<td>85.1</td>
+    	<td> </td>
+    	<td>72.8</td>
+       	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td>
+    	<td> </td> 
+    </tr> 
 	<tr> 
     	<td>IAMTrack</td>
     	<td>Applied Intelligence'2025</td>
