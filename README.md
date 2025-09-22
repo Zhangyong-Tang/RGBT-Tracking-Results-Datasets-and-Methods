@@ -45,7 +45,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
 | VOT-RGBT20|VOT Community： 2020 | [VOT-RGBT2020](https://pan.baidu.com/s/1fNgAVk4siqP2p-b1M2ZGmg ) *CODE:TZYD*| 60 Video pairs, its data is the same with VOT-RGBT2019, but with different evaluation mechanism|
 | LasHeR| TIP'2021 | [LasHeR](https://github.com/BUGPLEASEOUT/LasHeR) | train/test split, imaged in the head-up view, above 70W image pairs in total; 245 videos in the test set|
 | VTUAV| CVPR'2022 |[VTUAV](https://zhang-pengyu.github.io/DUT-VTUAV/) | imaged in the top-down view by uav, long-term;176 videos in the test-st, which has around 3300 frames in average|
-| MV-RGBT| Arxiv'2024 |[MV-RGBT](https://github.com/Zhangyong-Tang/MVRGBT) |122 video pairs. The data in this benchmark mainly focus on the modality validity.|
+| MV-RGBT| TIP'2025 |[MV-RGBT](https://github.com/Zhangyong-Tang/MVRGBT) |122 video pairs. The data in this benchmark mainly focus on the modality validity.|
 
 ***Generated Data***
 | Dataset | Publish  | GitHub| Introduction|
