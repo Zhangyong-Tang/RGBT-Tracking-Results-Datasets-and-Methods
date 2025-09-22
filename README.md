@@ -79,6 +79,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>PTrMA</td>
+    	<td>TIM'2025</td>
+	<td>41.6/3090Ti</td>
+    	<td></td>
+    	<td></td>
+    	<td>86.0</td>
+    	<td>63.4</td>
+    	<td>87.6</td>
+    	<td>65.2</td>
+	<td>71.5</td>
+       	<td>67.5</td>
+    	<td>56.8</td>
+    </tr>
+	<tr> 
     	<td>APTrack</td>
     	<td>TAI'2025</td>
 	<td>50.5/4090</td>
