@@ -170,6 +170,20 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
+    	<td>FlecTrack</td>
+    	<td>ICCV'2025</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>92.7</td>
+    	<td>69.9</td>
+	<td>77.3</td>
+       	<td></td>
+    	<td>62.0</td>
+    </tr>
+	<tr> 
     	<td>PTrMA</td>
     	<td>TIM'2025</td>
 	<td>41.6/3090Ti</td>
