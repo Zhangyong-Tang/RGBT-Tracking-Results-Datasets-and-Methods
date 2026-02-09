@@ -170,7 +170,7 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> SR</td>
     </tr>
 	<tr> 
-    	<td>FlecTrack</td>
+    	<td>FlexTrack</td>
     	<td>ICCV'2025</td>
 	<td></td>
     	<td></td>
