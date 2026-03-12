@@ -169,23 +169,23 @@ This repository is started on 02/07/2023, and will keep on updating.**
     	<td> NPR</td>
     	<td> SR</td>
     </tr>
+		<tr> 
+    	<td>RAGTrack</td>
+    	<td>CVPR'2026</td>
+	<td></td>
+    	<td>95.1</td>
+    	<td>79.3</td>
+    	<td>93.2</td>
+    	<td>67.1</td>
+    	<td>93.8</td>
+    	<td>69.5</td>
+		<td>76.8</td>
+       	<td>73.0</td>
+    	<td>61.1</td>
+    </tr>
 	<tr> 
     	<td>FlexTrack</td>
     	<td>ICCV'2025</td>
-	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td></td>
-    	<td>92.7</td>
-    	<td>69.9</td>
-	<td>77.3</td>
-       	<td></td>
-    	<td>62.0</td>
-    </tr>
-	<tr> 
-    	<td>RAGTrack</td>
-    	<td>CVPR'2026</td>
 	<td></td>
     	<td></td>
     	<td></td>
