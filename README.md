@@ -183,6 +183,25 @@ This repository is started on 02/07/2023, and will keep on updating.**
        	<td></td>
     	<td>62.0</td>
     </tr>
+
+
+	<tr> 
+    	<td>RAGTrack</td>
+    	<td>CVPR'2026</td>
+	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td></td>
+    	<td>92.7</td>
+    	<td>69.9</td>
+	<td>77.3</td>
+       	<td></td>
+    	<td>62.0</td>
+    </tr>
+
+
+	
 	<tr> 
     	<td>PTrMA</td>
     	<td>TIM'2025</td>
